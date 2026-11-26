@@ -1,0 +1,198 @@
+[
+  {
+    "file": "CUP/CUPList.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "CUP/UP.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "DataObject/Database.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "DataObject/Itemset.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "DataObject/Operation.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "DataObject/Pattern.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "DataObject/TPNListItemset.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "DataObject/TidProb.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "DataObject/Transaction.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "DataObject/TransactionItem.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "DataObject/WNList.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "IO/Input.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "IO/Output.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "WNTree/HybridTPNCode.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "WNTree/HybridTPNList.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "WNTree/HybridTPNNode.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "WNTree/HybridTPNTree.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "WNTree/TPNCode.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "WNTree/TPNList.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "WNTree/TPNNode.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "WNTree/TPNTree.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "WNTree/WNTree.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/MainNTUFP.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/MainTidNTUFP.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/MainTidNTUFPOptimized.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/TNUFPHybridSolution/MainTNUFPHybrid.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/TNUFPHybridSolution/TNUFPHybridAlgo.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/TUFP/MainTUFP.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/TUFP/TUFPAlgo.java",
+    "status": "changed"
+  },
+  {
+    "file": "algo/UP/MainUP.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/UP/UPNode.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/UP/UPTree.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/UnifiedBenchmark.java",
+    "status": "new"
+  },
+  {
+    "file": "algo/WUIP/MainWUIP.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "algo/WUIP/WUIPAlgo.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "itufp/Database.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "itufp/ITUFP.java",
+    "status": "changed"
+  },
+  {
+    "file": "itufp/Main.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "tools/MemoryLogger.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "utils/Constant.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "utils/ExactExpSupCalculator.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "utils/ExperimentRunner.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "utils/MiningStats.java",
+    "status": "changed"
+  },
+  {
+    "file": "utils/OptimizedNTUFP.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "utils/OptimizedTidNTUFP.java",
+    "status": "changed"
+  },
+  {
+    "file": "utils/PreparedDatabase.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "utils/ResultRanking.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "utils/TPNMiningEngine.java",
+    "status": "unchanged"
+  },
+  {
+    "file": "utils/TopKBuffer.java",
+    "status": "unchanged"
+  }
+]

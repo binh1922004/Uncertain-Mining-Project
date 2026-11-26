@@ -1,0 +1,13 @@
+PASS cases=881 queries=17614 list_states=111884 ppf_stops=596 resumed=358 pufp_rejections=2047 reused_complete=13436
+{
+  "status": "PASS",
+  "cases": 816,
+  "queries": 11588,
+  "fresh_queries": 5794,
+  "interactive_queries": 5794,
+  "exact_matches": 11588,
+  "invalid_inputs_rejected": 10,
+  "structural_checks": "list_state_observations=138530",
+  "published_BC_partial_resume": "PASS",
+  "seed": 119156
+}

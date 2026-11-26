@@ -1,0 +1,85 @@
+Compiled 52 Java files; diagnostics: build/compile.log
+Oracle runs: 8994 failures: 0
+{
+  "queries": 2998,
+  "miner_runs": 8994,
+  "failures": 0,
+  "groups": {
+    "previous_audit_runs": 2172,
+    "w_runs": 2998,
+    "h_runs": 2998,
+    "t_runs": 2998,
+    "exhaustive_runs": 6561,
+    "precision_runs": 21,
+    "shuffled_runs": 240
+  },
+  "hybrid_cap_rejections": 1870,
+  "hybrid_rejected_metadata_pairs": 2709,
+  "hybrid_materialized_pairs": 16250,
+  "api_assertions": 53,
+  "input_validation_cases": 30,
+  "cli_entrypoints": 5,
+  "scope": "Synthetic finite tests; no real-dataset runtime, memory, or manuscript performance claims reproduced."
+}
+{
+  "queries": 9715,
+  "failures": 0,
+  "backends": {
+    "tenths-long": 9453,
+    "original-decimal-fallback": 262
+  },
+  "bitmap_blocks_exercised": 11958,
+  "early_rejections_exercised": 2466,
+  "seconds": 3.1442250059999424,
+  "scope": "Exact ordered itemsets and rational scores against independent exhaustive oracle; all three TID modes; early on/off; arbitrary decimals and checked-long overflow fallback."
+}
+{
+  "status": "PASS",
+  "cases": 2727,
+  "queries": 10908,
+  "counts": {
+    "adaptive:false:false": 2727,
+    "adaptive:true:false": 2727,
+    "adaptive:false:true": 2727,
+    "adaptive:true:true": 2727
+  },
+  "pruning": {
+    "capRejections": 2690,
+    "earlyRejections": 2771
+  }
+}
+PASS cases=881 queries=17614 list_states=111884 ppf_stops=596 resumed=358 pufp_rejections=2047 reused_complete=13436
+{
+  "status": "PASS",
+  "cases": 816,
+  "queries": 11588,
+  "fresh_queries": 5794,
+  "interactive_queries": 5794,
+  "exact_matches": 11588,
+  "invalid_inputs_rejected": 10,
+  "structural_checks": "list_state_observations=138530",
+  "published_BC_partial_resume": "PASS",
+  "seed": 119156
+}
+Generating independent exact reference for smoke 25% (175 transactions)
+Generating independent exact reference for smoke 50% (350 transactions)
+Generating independent exact reference for smoke 75% (525 transactions)
+{
+  "status": "PASS",
+  "smoke_runs": 10,
+  "resume_no_duplicate": true,
+  "environment_change_rejected": true,
+  "main_plan_runs": 480,
+  "bad_input_hash_rejected": true,
+  "actual_timeout_runs": 10,
+  "timeout_excluded_from_mean": true,
+  "nested_subset_sizes": [
+    175,
+    350,
+    525
+  ],
+  "derived_resume_verified": true,
+  "bad_exact_output_rejected": true,
+  "tampered_receipt_log_rejected": true
+}
+ALL TESTS PASSED

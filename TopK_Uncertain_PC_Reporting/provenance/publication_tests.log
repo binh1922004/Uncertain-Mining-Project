@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "full_plan": 516,
+  "empty_plan_coverage": 516,
+  "smoke_completed": 10,
+  "extended_reference_prefix": 700,
+  "extended_reference_size": 900,
+  "reference_timeout_detected": true,
+  "fixture_JVM_runs": 45,
+  "paired_tables_verified": true,
+  "partial_suite_not_marked_full": true
+}

@@ -1,0 +1,19 @@
+{
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "machine": "x86_64",
+  "cpu": "INTEL(R) XEON(R) PLATINUM 8573C",
+  "logical_cpus": 5,
+  "java": "openjdk version \"21.0.12.1\" 2026-08-18\nOpenJDK Runtime Environment (build 21.0.12.1+1-1-deb13u1-Debian)\nOpenJDK 64-Bit Server VM (build 21.0.12.1+1-1-deb13u1-Debian, mixed mode, sharing)",
+  "java_path": "/usr/bin/java",
+  "python": "3.13.5",
+  "jar_sha256": "fa57bb3c7892db56a9a94ebd1b47d72d54ce16bb33e9e9fe25b41ee2bd88bc61",
+  "runner_sha256": "7a7eb2759dd2192665922c916673c25a703d74c56dfee9a4fd852aa4439c4c1c",
+  "reference_code_sha256": "8d8c85848b1153f903e2a8f4bb077de8913ad813dc8e90159d674a895f3a5da1",
+  "manifest_sha256": "84572bd69634881b0298981fb7f777dd5d6232c2b253b5ccae5eb56ed08e368b",
+  "initial_heap": "128m",
+  "max_heap": "512m",
+  "deadline_s": 900,
+  "sample_ms": 5,
+  "warmup": 0,
+  "smoke": true
+}

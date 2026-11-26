@@ -1,0 +1,357 @@
+{
+  "created_at": "2026-11-12T21:51:55.095126+07:00",
+  "name": "TidNTUFP optimized v1, exact, compact TPN metadata with adaptive immutable TID sets",
+  "baseline_library_file_id": "libfile_435a58add7608191a084ce9f7b588908",
+  "baseline_library_version": 61,
+  "baseline_zip_sha256": "42309332fac211ab8c911002a702cc6bd51798b10058eb5eb2306a7fa50604e4",
+  "datasets_k": {
+    "chess": [
+      100,
+      300,
+      500,
+      700,
+      900
+    ],
+    "mushrooms": [
+      100,
+      300,
+      500,
+      700
+    ],
+    "T10I4D100K": [
+      100,
+      300,
+      500,
+      700,
+      900
+    ],
+    "pumsb_star": [
+      100,
+      300,
+      500,
+      700,
+      900
+    ],
+    "pumsb": [
+      100,
+      300,
+      500,
+      700,
+      900
+    ],
+    "connect": [
+      100,
+      300,
+      500,
+      700,
+      900
+    ]
+  },
+  "main_configurations": 29,
+  "ablation_configurations": 3,
+  "plan": [
+    {
+      "phase": "main",
+      "dataset": "chess",
+      "k": 100,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "chess",
+      "k": 300,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "chess",
+      "k": 500,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "chess",
+      "k": 700,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "chess",
+      "k": 900,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "mushrooms",
+      "k": 100,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "mushrooms",
+      "k": 300,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "mushrooms",
+      "k": 500,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "mushrooms",
+      "k": 700,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "T10I4D100K",
+      "k": 100,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "T10I4D100K",
+      "k": 300,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "T10I4D100K",
+      "k": 500,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "T10I4D100K",
+      "k": 700,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "T10I4D100K",
+      "k": 900,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb_star",
+      "k": 100,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb_star",
+      "k": 300,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb_star",
+      "k": 500,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb_star",
+      "k": 700,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb_star",
+      "k": 900,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb",
+      "k": 100,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb",
+      "k": 300,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb",
+      "k": 500,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb",
+      "k": 700,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "pumsb",
+      "k": 900,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "connect",
+      "k": 100,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "connect",
+      "k": 300,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "connect",
+      "k": 500,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "connect",
+      "k": 700,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "main",
+      "dataset": "connect",
+      "k": 900,
+      "mode": "adaptive",
+      "early": true
+    },
+    {
+      "phase": "ablation",
+      "dataset": "connect",
+      "k": 300,
+      "mode": "array",
+      "early": true
+    },
+    {
+      "phase": "ablation",
+      "dataset": "connect",
+      "k": 300,
+      "mode": "bitmap",
+      "early": true
+    },
+    {
+      "phase": "ablation",
+      "dataset": "connect",
+      "k": 300,
+      "mode": "adaptive",
+      "early": false
+    }
+  ],
+  "source_sha256": {
+    "src/CUP/CUPList.java": "c69146b049dbf8ce2b02f404cb44a3d9c1c1cc7af8d67872ab0155445f0ba161",
+    "src/CUP/UP.java": "94f75a1e0f37cfd1f984520011ff514b179e86a7d78684e3693a2ca458f52123",
+    "src/DataObject/Database.java": "929439a4f4fbafb3e5ed82b90cd7b2c32e6a23fdc86e4435cd69d6a9836844ea",
+    "src/DataObject/Itemset.java": "d32d20d1343fb7005f0996b7cb5c3c83a403f460accc2a2654dd796da1504bbd",
+    "src/DataObject/Operation.java": "839c3ab7c604a11d25a67921406737c2de813c15819d4e6da05c9cfd9cf92f13",
+    "src/DataObject/Pattern.java": "b2f6265e5845fb6e3283beea9b155472fcf12debd8a3cef0ca8a959bc3f258ea",
+    "src/DataObject/TPNListItemset.java": "33b682b6fda099bdb3a736ae701580d74de9615e4861ba9e2ddf37a41c2f084e",
+    "src/DataObject/TidProb.java": "7bcce27bd8a829ce519b0f71152c9ed34e8cdefefa1e7e256b65224e1ea63565",
+    "src/DataObject/Transaction.java": "3ff13625fe552539b289273eb6f8f7988a73dd486700badc0e45ede21985cdb8",
+    "src/DataObject/TransactionItem.java": "540d61eb39f8057be2e4d9898d928ae578c2e076243052752c0998927f6c763b",
+    "src/DataObject/WNList.java": "3d7917e74f4a36799e2608f4ec51b7ea3f5fa3234758403ff5ec3049bbc0912d",
+    "src/IO/Input.java": "996e478bac4037f955f40b17183ff3e6dfab2b7056f31ca150cbefcab89cd9d9",
+    "src/IO/Output.java": "3607e36ff7d44275d9e8df61deca87babda4230d6c0246b2f7bcf35315512a8e",
+    "src/WNTree/HybridTPNCode.java": "0ab74a685b967d8fe8d8046abd411f9b1cae412db5aac8d5a0ad51928a04e037",
+    "src/WNTree/HybridTPNList.java": "e5036eebe8d094a24768daee76ddb6d8feabe9f831cc600a0c38d951235f70b5",
+    "src/WNTree/HybridTPNNode.java": "dc0a5b21a084c534178bb23167f29bb9fc7cd524235ccc4aba739d1df2c243f1",
+    "src/WNTree/HybridTPNTree.java": "e3ba518f40ac6a279a8eaa951db2689a9669a78a3038cb20c80191bcf74bb8fb",
+    "src/WNTree/TPNCode.java": "3e98cd173370850a3e4615bd65ff9c9c88e5363477dffb4b51c367cb6261bfdf",
+    "src/WNTree/TPNList.java": "6a5cee4c373c26cc1ce2f61318b72a839243742010c84f0f579e0968fd3436f0",
+    "src/WNTree/TPNNode.java": "12d37ad1e11578999e31363a47d4643b6577adfb274db1d660368d42e86679df",
+    "src/WNTree/TPNTree.java": "50a5ce74e2d2695edac028b24af1c45a93a105ff5ddf9aa09308fda68d78e217",
+    "src/WNTree/WNTree.java": "473524320f9386b7a7af52d047095d9fb117c28bc5fb613be15339c2458fe5ea",
+    "src/algo/MainNTUFP.java": "a7e846481d53533225208daac5b9e7e58ebc9530a51b412439c8d5dac04c0da6",
+    "src/algo/MainTidNTUFP.java": "29659ea99a842e76ec88be537ae2acc4ca0e81f57dc1c71b82aa2b933294bdbd",
+    "src/algo/MainTidNTUFPOptimized.java": "6d3d2d01614fc80b3bd32ee345403d7e7ec717072b29e9e06fb2011674dc7840",
+    "src/algo/TNUFPHybridSolution/MainTNUFPHybrid.java": "e811682a0a72e7fd2f44945ea68d1e8039ab6992c650d53a741c8eca72882363",
+    "src/algo/TNUFPHybridSolution/TNUFPHybridAlgo.java": "08970e37ef88738278ca687dd786b93b2cf83a11b98b77cea8cc56a643128b13",
+    "src/algo/TUFP/MainTUFP.java": "9e50d29390225a07da0e9b4262a2405af8432e68680cedd922f76aabb7a7051b",
+    "src/algo/TUFP/TUFPAlgo.java": "5d8d61b1bc68868cec7bd8b58cfd98ca39b4e1cbb5756f18ae8dee1d1bcf2086",
+    "src/algo/UP/MainUP.java": "b3a420dbaa19333ddb6c9c4551b136448eb24ccdd674ec62428231d9070661f7",
+    "src/algo/UP/UPNode.java": "652f163b286c6b73bdb9687973b4f3b966d96ce0c56932769e4e97dbf88868bd",
+    "src/algo/UP/UPTree.java": "a130b7a861b30620ba6855cfedf43ef5352a84e7c2f0c8335100be3264e67a87",
+    "src/algo/WUIP/MainWUIP.java": "ff8d773c63ad2aa0151d791775cead2b26b15bb2160ec751af8b372b13259ba8",
+    "src/algo/WUIP/WUIPAlgo.java": "054e7bcfd4e62bcf9c0b077419fde353b736a38a0d8ef120136be9ea2202e522",
+    "src/tools/MemoryLogger.java": "686f1923963aafb828e4c903b0fbf541d9953f353514fafc54a04ede9878f018",
+    "src/utils/Constant.java": "8ebb7c193262929ead2b2a1d588ed04469ad3e95364af7a45c46ad6b9d06076a",
+    "src/utils/ExactExpSupCalculator.java": "c01bc5f758cbc14b5486f613b3116f3959dc78b0803c22f05c85dba7dea7e62c",
+    "src/utils/ExperimentRunner.java": "008e126aefb59d3fc40d5a2b37eb3e2d27d40ba62ec5b720c337c1225c1c0cba",
+    "src/utils/MiningStats.java": "00d6aea20cce589523684e6a683ded2357020a688f8425bcc69c1ae475f3f335",
+    "src/utils/OptimizedTidNTUFP.java": "c3770fed44afb2962fb937ddaf179fd918f429356b6e281989229b6bf30c5c51",
+    "src/utils/PreparedDatabase.java": "dd29860f0ec37bdd6d92e520ae1ecf3bff98dda1e1a84ff0363d7a9986a834a2",
+    "src/utils/ResultRanking.java": "aac113730c31b7353572400f7a462363dfec85d713a6c76397a44c744c404ab8",
+    "src/utils/TPNMiningEngine.java": "d85e241b42a2b92e38cc4cd0111b555817336200ef50e81b7f14ac0d0a45f872",
+    "src/utils/TopKBuffer.java": "188b428e394e035bde95480b426b4a0fc90daf33e31934f7cf248646ee80c810"
+  },
+  "input_sha256": {
+    "chess": "02dfa68ea72aee16d72a9f5c50c71e82b814e9c1a28def1556f7ede7685ee927",
+    "mushrooms": "1b5476c88923c252ccde2a753d9c68fc0c086a395de8c33278e31f2f4c7683f5",
+    "T10I4D100K": "dc666906543745f014ccf317354e0f7b082ff8b94cbadecc135031253e4fd815",
+    "pumsb_star": "8fcab4084f9da3bb2a98b4a9cafb896adfa37300495877f595977d8a811f9020",
+    "pumsb": "cec3a20bc07fe9a251dd27dd06ef9e1f738f295b850873f7244da87424b09262",
+    "connect": "8f706e70dbeacccaf9c1aaf57caab06d08e9eed5ea6378cac227d7466ecd34a9"
+  },
+  "reference_sha256": {
+    "T10I4D100K_top900.json": "849a1badc3c820222ea16e51c357ab5e6f4ed3f6dd37b81b1c138cca107c0925",
+    "chess_top900.json": "8d17ae469d3cca7ab1d0a5beedf63f2523329401c99c9773183fc7e43a2d6fc6",
+    "connect_top900.json": "be7450ae84dd849225556c07bc01deaee32dc94b2434e55abbcb8e624839044c",
+    "mushrooms_top700.json": "2b5d6b3ffd2f63ce35ee14b5ff6833c7f1797c99ca8146d4c06c8269ff4c6497",
+    "pumsb_star_top900.json": "197b04e9025e32b74d5dadf92a063cc216bb3bc8d3626fece9911c609f8c3ec8",
+    "pumsb_top900.json": "61b39f7b8d8f102182a1d07d68d9b4b18b398ac41da25ae4492adeef1094600c"
+  },
+  "measured_runs": 1,
+  "warmup": 0,
+  "jvm_flags": [
+    "-Xms128m",
+    "-Xmx4g"
+  ],
+  "sample_ms": 5,
+  "wall_limit_seconds": 900,
+  "measurement_scope": "solver construction + mining; includes optimized preparation and structures; unchanged file parser and output writer excluded",
+  "comparison_scope": "Historical baseline single runs. Ratios descriptive; no paired repetition or statistical significance claim.",
+  "revision": "1.1",
+  "pilot_preserved": {
+    "configurations": 6,
+    "file": "pilot_v1/pilot_v1_checkpoint.zip",
+    "sha256": "be764debae7e260aced6b89cefb2ca19a9f1617753ad68ed5a0c0cd2a56b1a6e",
+    "reason": "Saturating cap comparison avoids unnecessary exact-backend fallback from a large upper bound. All pilot outputs remain saved; final main measurements restart with fixed revision 1.1."
+  }
+}

@@ -1,0 +1,23 @@
+Compiled 48 Java files; diagnostics: build/compile.log
+Oracle runs: 8994 failures: 0
+{
+  "queries": 2998,
+  "miner_runs": 8994,
+  "failures": 0,
+  "groups": {
+    "previous_audit_runs": 2172,
+    "w_runs": 2998,
+    "h_runs": 2998,
+    "t_runs": 2998,
+    "exhaustive_runs": 6561,
+    "precision_runs": 21,
+    "shuffled_runs": 240
+  },
+  "hybrid_cap_rejections": 1870,
+  "hybrid_rejected_metadata_pairs": 2709,
+  "hybrid_materialized_pairs": 16250,
+  "api_assertions": 53,
+  "input_validation_cases": 30,
+  "cli_entrypoints": 5,
+  "scope": "Synthetic finite tests; no real-dataset runtime, memory, or manuscript performance claims reproduced."
+}

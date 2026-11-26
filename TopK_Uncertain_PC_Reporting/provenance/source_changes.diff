@@ -1,0 +1,114 @@
+--- original/algo/TUFP/TUFPAlgo.java
++++ final/algo/TUFP/TUFPAlgo.java
+@@ -34,9 +34,10 @@
+             for(int j=i+1;j<candidates.size();j++){
+                 CUPList b=candidates.get(j);
+                 if(b.getExpSup().compareTo(top.threshold())<0){stats.branchPrunes++;continue;}
+-                stats.capChecks++;
++                stats.capChecks++;stats.eligiblePairs++;
+                 if(a.getExpSup().multiply(b.getMaxProbabilities()).compareTo(top.threshold())<0){stats.capRejections++;continue;}
+                 Itemset items=Itemset.extended(a.getItemset(),b.getItemset().get(b.getItemset().size()-1));
++                stats.exactCandidateJoins++;
+                 CUPList joined=intersection(a,b,items);
+                 if(joined.getUpList().isEmpty() || joined.getExpSup().compareTo(top.threshold())<0)continue;
+                 top.offer(items,joined.getExpSup());stats.heapOffers++;next.add(joined);
+--- original/itufp/ITUFP.java
++++ final/itufp/ITUFP.java
+@@ -52,6 +52,7 @@
+         }
+     }
+     public static final class Stats {
++        public long eligiblePairs, exactCandidateJoins;
+         public long newLists, resumedLists, reusedComplete, pufpRejections, ppfStops, matchedTuples;
+         @Override public String toString() {return "new_lists="+newLists+" resumed_lists="+resumedLists+
+             " reused_complete="+reusedComplete+" pufp_rejections="+pufpRejections+
+@@ -102,6 +103,7 @@
+                 UPList b=cls.get(j);
+                 if(!b.complete) throw new IllegalStateException("incomplete parent");
+                 if(b.expSup.compareTo(top.threshold())<0) continue;
++                stats.eligiblePairs++;
+                 // PUFP: q(Pab,t)=q(Pa,t)*p(b,t); joint max of Pb is unsafe here.
+                 if(a.expSup.multiply(b.maxConditional).compareTo(top.threshold())<0) {
+                     stats.pufpRejections++; continue;
+@@ -111,6 +113,7 @@
+                     ArrayList<Integer> ids=new ArrayList<>(a.ids); ids.add(b.suffix); ids.sort(Integer::compare);
+                     c=new UPList(ids,b.suffix,a,b); a.children.put(b.suffix,c); stats.newLists++;
+                 } else if(c.left!=a || c.right!=b) throw new IllegalStateException("noncanonical join");
++                stats.exactCandidateJoins++;
+                 finish(c,top);
+                 if(c.complete && !c.records.isEmpty()) {
+                     top.offer(c);
+--- original/utils/MiningStats.java
++++ final/utils/MiningStats.java
+@@ -2,12 +2,13 @@
+ public final class MiningStats {
+     public long metadataJoins,metadataPairs,capChecks,capRejections,capRejectedPairs;
+     public long tidPairMerges,tidRecordsMerged,probabilityMultiplications,branchPrunes,heapOffers;
++    public long eligiblePairs, exactCandidateJoins;
+     public int maxDepth;
+     public String toJson() {
+         return "{\"metadataJoins\":"+metadataJoins+",\"metadataPairs\":"+metadataPairs
+             +",\"capChecks\":"+capChecks+",\"capRejections\":"+capRejections+",\"capRejectedPairs\":"+capRejectedPairs
+             +",\"tidPairMerges\":"+tidPairMerges+",\"tidRecordsMerged\":"+tidRecordsMerged
+             +",\"probabilityMultiplications\":"+probabilityMultiplications+",\"branchPrunes\":"+branchPrunes
+-            +",\"heapOffers\":"+heapOffers+",\"maxDepth\":"+maxDepth+"}";
++            +",\"heapOffers\":"+heapOffers+",\"eligiblePairs\":"+eligiblePairs+",\"exactCandidateJoins\":"+exactCandidateJoins+",\"maxDepth\":"+maxDepth+"}";
+     }
+ }
+--- original/utils/OptimizedTidNTUFP.java
++++ final/utils/OptimizedTidNTUFP.java
+@@ -17,6 +17,7 @@
+     private final int k;
+     private final String mode;
+     private final boolean early;
++    private final boolean capEnabled;
+     private TopKBuffer top;
+     private MiningStats stats;
+     private String backend = "tenths-long";
+@@ -44,6 +45,10 @@
+     private BigDecimal cachedTopThreshold = null;
+ 
+     public OptimizedTidNTUFP(int k, String mode, boolean early) {
++        this(k, mode, early, true);
++    }
++
++    public OptimizedTidNTUFP(int k, String mode, boolean early, boolean capEnabled) {
+         if (k < 1) throw new IllegalArgumentException("k must be positive");
+         if (!Set.of("array", "bitmap", "adaptive").contains(mode)) {
+             throw new IllegalArgumentException("Unknown TID mode");
+@@ -51,6 +56,7 @@
+         this.k = k;
+         this.mode = mode;
+         this.early = early;
++        this.capEnabled = capEnabled;
+         for (int p = 0; p <= 10; p++) {
+             powers[p][0] = 1;
+             for (int d = 1; d < 19; d++) {
+@@ -427,15 +433,17 @@
+                 }
+                 long theta = threshold(depth);
+                 stats.metadataJoins++;
++                stats.eligiblePairs++;
+                 int count = match(a.blockNodes, b.blockNodes);
+                 stats.metadataPairs += count;
+                 if (count == 0) continue;
+-                stats.capChecks++;
+-                if (!capPass(b.blockNodes, count, depth, theta)) {
++                if (capEnabled) stats.capChecks++;
++                if (capEnabled && !capPass(b.blockNodes, count, depth, theta)) {
+                     stats.capRejections++;
+                     stats.capRejectedPairs += count;
+                     continue;
+                 }
++                stats.exactCandidateJoins++;
+                 Candidate joined = materialize(a, b, count, depth, theta);
+                 if (joined == null) continue;
+                 top.offer(joined.items, BigDecimal.valueOf(joined.sum, depth));
+@@ -669,6 +677,7 @@
+             + ",\"fallbackReason\":" + quote(fallbackReason == null ? "" : fallbackReason)
+             + ",\"tidMode\":" + quote(mode)
+             + ",\"earlyEnabled\":" + early
++            + ",\"capEnabled\":" + capEnabled
+             + ",\"bitmapBlocks\":" + bitmapBlocks
+             + ",\"arrayBlocks\":" + arrayBlocks
+             + ",\"sharedTidReuses\":" + sharedTidReuses

@@ -1,0 +1,89 @@
+{
+  "jar_sha256": "397079063e7fd9901ae185ff5c4a2802d7df851b6b3d05a161a5f9a53997539e",
+  "deadline_s": 900,
+  "datasets": [
+    {
+      "name": "chess",
+      "k": [
+        100,
+        300,
+        500,
+        700,
+        900
+      ],
+      "input": "../data/chess.hui",
+      "input_sha256": "02dfa68ea72aee16d72a9f5c50c71e82b814e9c1a28def1556f7ede7685ee927",
+      "reference": "references/chess_top900.json",
+      "reference_sha256": "8d17ae469d3cca7ab1d0a5beedf63f2523329401c99c9773183fc7e43a2d6fc6"
+    },
+    {
+      "name": "mushrooms",
+      "k": [
+        100,
+        300,
+        500,
+        700
+      ],
+      "input": "../data/mushrooms.hui",
+      "input_sha256": "1b5476c88923c252ccde2a753d9c68fc0c086a395de8c33278e31f2f4c7683f5",
+      "reference": "references/mushrooms_top700.json",
+      "reference_sha256": "2b5d6b3ffd2f63ce35ee14b5ff6833c7f1797c99ca8146d4c06c8269ff4c6497"
+    },
+    {
+      "name": "T10I4D100K",
+      "k": [
+        100,
+        300,
+        500,
+        700,
+        900
+      ],
+      "input": "../data/T10I4D100K.hui",
+      "input_sha256": "dc666906543745f014ccf317354e0f7b082ff8b94cbadecc135031253e4fd815",
+      "reference": "references/T10I4D100K_top900.json",
+      "reference_sha256": "849a1badc3c820222ea16e51c357ab5e6f4ed3f6dd37b81b1c138cca107c0925"
+    },
+    {
+      "name": "pumsb_star",
+      "k": [
+        100,
+        300,
+        500,
+        700,
+        900
+      ],
+      "input": "../data/pumsb_star.hui",
+      "input_sha256": "8fcab4084f9da3bb2a98b4a9cafb896adfa37300495877f595977d8a811f9020",
+      "reference": "references/pumsb_star_top900.json",
+      "reference_sha256": "197b04e9025e32b74d5dadf92a063cc216bb3bc8d3626fece9911c609f8c3ec8"
+    },
+    {
+      "name": "pumsb",
+      "k": [
+        100,
+        300,
+        500,
+        700,
+        900
+      ],
+      "input": "../data/pumsb.hui",
+      "input_sha256": "cec3a20bc07fe9a251dd27dd06ef9e1f738f295b850873f7244da87424b09262",
+      "reference": "references/pumsb_top900.json",
+      "reference_sha256": "61b39f7b8d8f102182a1d07d68d9b4b18b398ac41da25ae4492adeef1094600c"
+    },
+    {
+      "name": "connect",
+      "k": [
+        100,
+        300,
+        500,
+        700,
+        900
+      ],
+      "input": "../data/connect.hui",
+      "input_sha256": "8f706e70dbeacccaf9c1aaf57caab06d08e9eed5ea6378cac227d7466ecd34a9",
+      "reference": "references/connect_top900.json",
+      "reference_sha256": "be7450ae84dd849225556c07bc01deaee32dc94b2434e55abbcb8e624839044c"
+    }
+  ]
+}

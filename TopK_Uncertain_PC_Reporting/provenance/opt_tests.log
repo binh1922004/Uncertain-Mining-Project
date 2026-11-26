@@ -1,0 +1,12 @@
+{
+  "queries": 9715,
+  "failures": 0,
+  "backends": {
+    "tenths-long": 9453,
+    "original-decimal-fallback": 262
+  },
+  "bitmap_blocks_exercised": 11958,
+  "early_rejections_exercised": 2466,
+  "seconds": 2.677059201999782,
+  "scope": "Exact ordered itemsets and rational scores against independent exhaustive oracle; all three TID modes; early on/off; arbitrary decimals and checked-long overflow fallback."
+}

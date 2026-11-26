@@ -1,0 +1,49 @@
+{
+  "input_sha256": "25005ad61e15b491ce2f0b965a932e1c1de0de1efee2f51d828fa9ef71581dba",
+  "ranked": [
+    {
+      "items": [
+        1
+      ],
+      "numerator": 3,
+      "denominator": 1
+    },
+    {
+      "items": [
+        2
+      ],
+      "numerator": 13,
+      "denominator": 5
+    },
+    {
+      "items": [
+        3
+      ],
+      "numerator": 12,
+      "denominator": 5
+    },
+    {
+      "items": [
+        4
+      ],
+      "numerator": 23,
+      "denominator": 10
+    },
+    {
+      "items": [
+        1,
+        2
+      ],
+      "numerator": 167,
+      "denominator": 100
+    },
+    {
+      "items": [
+        2,
+        3
+      ],
+      "numerator": 119,
+      "denominator": 100
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "cases": 2727,
+  "queries": 10908,
+  "counts": {
+    "adaptive:false:false": 2727,
+    "adaptive:true:false": 2727,
+    "adaptive:false:true": 2727,
+    "adaptive:true:true": 2727
+  },
+  "pruning": {
+    "capRejections": 2690,
+    "earlyRejections": 2771
+  }
+}

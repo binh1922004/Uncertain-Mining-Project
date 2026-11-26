@@ -1,0 +1,7412 @@
+{
+  "dataset": "connect",
+  "max_k": 900,
+  "input_sha256": "8f706e70dbeacccaf9c1aaf57caab06d08e9eed5ea6378cac227d7466ecd34a9",
+  "ranked": [
+    {
+      "items": [
+        127
+      ],
+      "numerator": 185846,
+      "denominator": 5
+    },
+    {
+      "items": [
+        75
+      ],
+      "numerator": 185589,
+      "denominator": 5
+    },
+    {
+      "items": [
+        109
+      ],
+      "numerator": 185239,
+      "denominator": 5
+    },
+    {
+      "items": [
+        91
+      ],
+      "numerator": 185083,
+      "denominator": 5
+    },
+    {
+      "items": [
+        55
+      ],
+      "numerator": 184987,
+      "denominator": 5
+    },
+    {
+      "items": [
+        19
+      ],
+      "numerator": 368763,
+      "denominator": 10
+    },
+    {
+      "items": [
+        106
+      ],
+      "numerator": 368361,
+      "denominator": 10
+    },
+    {
+      "items": [
+        88
+      ],
+      "numerator": 368147,
+      "denominator": 10
+    },
+    {
+      "items": [
+        37
+      ],
+      "numerator": 183649,
+      "denominator": 5
+    },
+    {
+      "items": [
+        124
+      ],
+      "numerator": 367233,
+      "denominator": 10
+    },
+    {
+      "items": [
+        72
+      ],
+      "numerator": 36303,
+      "denominator": 1
+    },
+    {
+      "items": [
+        85
+      ],
+      "numerator": 360977,
+      "denominator": 10
+    },
+    {
+      "items": [
+        34
+      ],
+      "numerator": 179587,
+      "denominator": 5
+    },
+    {
+      "items": [
+        16
+      ],
+      "numerator": 359147,
+      "denominator": 10
+    },
+    {
+      "items": [
+        52
+      ],
+      "numerator": 357973,
+      "denominator": 10
+    },
+    {
+      "items": [
+        103
+      ],
+      "numerator": 178081,
+      "denominator": 5
+    },
+    {
+      "items": [
+        121
+      ],
+      "numerator": 176908,
+      "denominator": 5
+    },
+    {
+      "items": [
+        69
+      ],
+      "numerator": 345713,
+      "denominator": 10
+    },
+    {
+      "items": [
+        82
+      ],
+      "numerator": 343153,
+      "denominator": 10
+    },
+    {
+      "items": [
+        13
+      ],
+      "numerator": 170079,
+      "denominator": 5
+    },
+    {
+      "items": [
+        31
+      ],
+      "numerator": 168698,
+      "denominator": 5
+    },
+    {
+      "items": [
+        49
+      ],
+      "numerator": 167243,
+      "denominator": 5
+    },
+    {
+      "items": [
+        100
+      ],
+      "numerator": 331013,
+      "denominator": 10
+    },
+    {
+      "items": [
+        118
+      ],
+      "numerator": 161839,
+      "denominator": 5
+    },
+    {
+      "items": [
+        66
+      ],
+      "numerator": 63335,
+      "denominator": 2
+    },
+    {
+      "items": [
+        79
+      ],
+      "numerator": 30536,
+      "denominator": 1
+    },
+    {
+      "items": [
+        10
+      ],
+      "numerator": 152256,
+      "denominator": 5
+    },
+    {
+      "items": [
+        28
+      ],
+      "numerator": 149711,
+      "denominator": 5
+    },
+    {
+      "items": [
+        46
+      ],
+      "numerator": 291297,
+      "denominator": 10
+    },
+    {
+      "items": [
+        97
+      ],
+      "numerator": 140811,
+      "denominator": 5
+    },
+    {
+      "items": [
+        115
+      ],
+      "numerator": 265601,
+      "denominator": 10
+    },
+    {
+      "items": [
+        63
+      ],
+      "numerator": 51685,
+      "denominator": 2
+    },
+    {
+      "items": [
+        1
+      ],
+      "numerator": 245421,
+      "denominator": 10
+    },
+    {
+      "items": [
+        7
+      ],
+      "numerator": 238133,
+      "denominator": 10
+    },
+    {
+      "items": [
+        76
+      ],
+      "numerator": 112752,
+      "denominator": 5
+    },
+    {
+      "items": [
+        25
+      ],
+      "numerator": 112729,
+      "denominator": 5
+    },
+    {
+      "items": [
+        44
+      ],
+      "numerator": 103486,
+      "denominator": 5
+    },
+    {
+      "items": [
+        75,
+        127
+      ],
+      "numerator": 2043359,
+      "denominator": 100
+    },
+    {
+      "items": [
+        109,
+        127
+      ],
+      "numerator": 1018661,
+      "denominator": 50
+    },
+    {
+      "items": [
+        75,
+        109
+      ],
+      "numerator": 508723,
+      "denominator": 25
+    },
+    {
+      "items": [
+        55,
+        127
+      ],
+      "numerator": 2034459,
+      "denominator": 100
+    },
+    {
+      "items": [
+        91,
+        127
+      ],
+      "numerator": 406689,
+      "denominator": 20
+    },
+    {
+      "items": [
+        55,
+        75
+      ],
+      "numerator": 101608,
+      "denominator": 5
+    },
+    {
+      "items": [
+        19,
+        127
+      ],
+      "numerator": 2030677,
+      "denominator": 100
+    },
+    {
+      "items": [
+        91,
+        109
+      ],
+      "numerator": 2029171,
+      "denominator": 100
+    },
+    {
+      "items": [
+        75,
+        91
+      ],
+      "numerator": 2028881,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        91
+      ],
+      "numerator": 2027477,
+      "denominator": 100
+    },
+    {
+      "items": [
+        106,
+        127
+      ],
+      "numerator": 1013689,
+      "denominator": 50
+    },
+    {
+      "items": [
+        55,
+        109
+      ],
+      "numerator": 1012979,
+      "denominator": 50
+    },
+    {
+      "items": [
+        88,
+        127
+      ],
+      "numerator": 506121,
+      "denominator": 25
+    },
+    {
+      "items": [
+        19,
+        75
+      ],
+      "numerator": 2023687,
+      "denominator": 100
+    },
+    {
+      "items": [
+        124,
+        127
+      ],
+      "numerator": 1011659,
+      "denominator": 50
+    },
+    {
+      "items": [
+        19,
+        109
+      ],
+      "numerator": 1011527,
+      "denominator": 50
+    },
+    {
+      "items": [
+        75,
+        88
+      ],
+      "numerator": 2021787,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        91
+      ],
+      "numerator": 2021681,
+      "denominator": 100
+    },
+    {
+      "items": [
+        88,
+        91
+      ],
+      "numerator": 505407,
+      "denominator": 25
+    },
+    {
+      "items": [
+        19,
+        55
+      ],
+      "numerator": 2020681,
+      "denominator": 100
+    },
+    {
+      "items": [
+        106,
+        109
+      ],
+      "numerator": 1010267,
+      "denominator": 50
+    },
+    {
+      "items": [
+        91,
+        106
+      ],
+      "numerator": 2019691,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        127
+      ],
+      "numerator": 1009461,
+      "denominator": 50
+    },
+    {
+      "items": [
+        75,
+        124
+      ],
+      "numerator": 504683,
+      "denominator": 25
+    },
+    {
+      "items": [
+        75,
+        106
+      ],
+      "numerator": 100909,
+      "denominator": 5
+    },
+    {
+      "items": [
+        55,
+        88
+      ],
+      "numerator": 201811,
+      "denominator": 10
+    },
+    {
+      "items": [
+        37,
+        75
+      ],
+      "numerator": 504458,
+      "denominator": 25
+    },
+    {
+      "items": [
+        55,
+        106
+      ],
+      "numerator": 1007951,
+      "denominator": 50
+    },
+    {
+      "items": [
+        88,
+        109
+      ],
+      "numerator": 1007703,
+      "denominator": 50
+    },
+    {
+      "items": [
+        109,
+        124
+      ],
+      "numerator": 402923,
+      "denominator": 20
+    },
+    {
+      "items": [
+        37,
+        55
+      ],
+      "numerator": 503367,
+      "denominator": 25
+    },
+    {
+      "items": [
+        55,
+        124
+      ],
+      "numerator": 40247,
+      "denominator": 2
+    },
+    {
+      "items": [
+        91,
+        124
+      ],
+      "numerator": 502951,
+      "denominator": 25
+    },
+    {
+      "items": [
+        19,
+        106
+      ],
+      "numerator": 401831,
+      "denominator": 20
+    },
+    {
+      "items": [
+        19,
+        88
+      ],
+      "numerator": 502288,
+      "denominator": 25
+    },
+    {
+      "items": [
+        37,
+        109
+      ],
+      "numerator": 2008873,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        91
+      ],
+      "numerator": 401669,
+      "denominator": 20
+    },
+    {
+      "items": [
+        88,
+        106
+      ],
+      "numerator": 2006789,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        75
+      ],
+      "numerator": 1003033,
+      "denominator": 50
+    },
+    {
+      "items": [
+        19,
+        124
+      ],
+      "numerator": 1002139,
+      "denominator": 50
+    },
+    {
+      "items": [
+        19,
+        37
+      ],
+      "numerator": 2003387,
+      "denominator": 100
+    },
+    {
+      "items": [
+        88,
+        124
+      ],
+      "numerator": 40057,
+      "denominator": 2
+    },
+    {
+      "items": [
+        37,
+        106
+      ],
+      "numerator": 2002183,
+      "denominator": 100
+    },
+    {
+      "items": [
+        106,
+        124
+      ],
+      "numerator": 2001779,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        88
+      ],
+      "numerator": 399929,
+      "denominator": 20
+    },
+    {
+      "items": [
+        37,
+        124
+      ],
+      "numerator": 399417,
+      "denominator": 20
+    },
+    {
+      "items": [
+        72,
+        109
+      ],
+      "numerator": 1992743,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        127
+      ],
+      "numerator": 398449,
+      "denominator": 20
+    },
+    {
+      "items": [
+        55,
+        72
+      ],
+      "numerator": 994107,
+      "denominator": 50
+    },
+    {
+      "items": [
+        85,
+        88
+      ],
+      "numerator": 1985649,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        91
+      ],
+      "numerator": 992393,
+      "denominator": 50
+    },
+    {
+      "items": [
+        75,
+        85
+      ],
+      "numerator": 496063,
+      "denominator": 25
+    },
+    {
+      "items": [
+        85,
+        127
+      ],
+      "numerator": 79367,
+      "denominator": 4
+    },
+    {
+      "items": [
+        19,
+        72
+      ],
+      "numerator": 991803,
+      "denominator": 50
+    },
+    {
+      "items": [
+        85,
+        109
+      ],
+      "numerator": 495386,
+      "denominator": 25
+    },
+    {
+      "items": [
+        55,
+        85
+      ],
+      "numerator": 494696,
+      "denominator": 25
+    },
+    {
+      "items": [
+        85,
+        91
+      ],
+      "numerator": 395733,
+      "denominator": 20
+    },
+    {
+      "items": [
+        72,
+        88
+      ],
+      "numerator": 1977477,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        127
+      ],
+      "numerator": 1976503,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        106
+      ],
+      "numerator": 395269,
+      "denominator": 20
+    },
+    {
+      "items": [
+        52,
+        55
+      ],
+      "numerator": 1975443,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        124
+      ],
+      "numerator": 1973179,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        72
+      ],
+      "numerator": 986587,
+      "denominator": 50
+    },
+    {
+      "items": [
+        16,
+        127
+      ],
+      "numerator": 98657,
+      "denominator": 5
+    },
+    {
+      "items": [
+        16,
+        19
+      ],
+      "numerator": 1972957,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        75
+      ],
+      "numerator": 986129,
+      "denominator": 50
+    },
+    {
+      "items": [
+        34,
+        37
+      ],
+      "numerator": 394229,
+      "denominator": 20
+    },
+    {
+      "items": [
+        34,
+        109
+      ],
+      "numerator": 1970251,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        109
+      ],
+      "numerator": 984999,
+      "denominator": 50
+    },
+    {
+      "items": [
+        16,
+        55
+      ],
+      "numerator": 984381,
+      "denominator": 50
+    },
+    {
+      "items": [
+        85,
+        106
+      ],
+      "numerator": 492168,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        75
+      ],
+      "numerator": 984193,
+      "denominator": 50
+    },
+    {
+      "items": [
+        19,
+        85
+      ],
+      "numerator": 98416,
+      "denominator": 5
+    },
+    {
+      "items": [
+        52,
+        127
+      ],
+      "numerator": 1968053,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        34
+      ],
+      "numerator": 1966797,
+      "denominator": 100
+    },
+    {
+      "items": [
+        52,
+        75
+      ],
+      "numerator": 1966037,
+      "denominator": 100
+    },
+    {
+      "items": [
+        103,
+        106
+      ],
+      "numerator": 1965763,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        91
+      ],
+      "numerator": 1964667,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        55
+      ],
+      "numerator": 491132,
+      "denominator": 25
+    },
+    {
+      "items": [
+        34,
+        91
+      ],
+      "numerator": 491092,
+      "denominator": 25
+    },
+    {
+      "items": [
+        52,
+        109
+      ],
+      "numerator": 78515,
+      "denominator": 4
+    },
+    {
+      "items": [
+        52,
+        91
+      ],
+      "numerator": 490598,
+      "denominator": 25
+    },
+    {
+      "items": [
+        37,
+        85
+      ],
+      "numerator": 980811,
+      "denominator": 50
+    },
+    {
+      "items": [
+        103,
+        127
+      ],
+      "numerator": 489991,
+      "denominator": 25
+    },
+    {
+      "items": [
+        75,
+        103
+      ],
+      "numerator": 195977,
+      "denominator": 10
+    },
+    {
+      "items": [
+        34,
+        88
+      ],
+      "numerator": 1959251,
+      "denominator": 100
+    },
+    {
+      "items": [
+        85,
+        124
+      ],
+      "numerator": 1958897,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        106
+      ],
+      "numerator": 1958723,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        88
+      ],
+      "numerator": 195717,
+      "denominator": 10
+    },
+    {
+      "items": [
+        91,
+        103
+      ],
+      "numerator": 195569,
+      "denominator": 10
+    },
+    {
+      "items": [
+        34,
+        106
+      ],
+      "numerator": 1955471,
+      "denominator": 100
+    },
+    {
+      "items": [
+        103,
+        109
+      ],
+      "numerator": 97721,
+      "denominator": 5
+    },
+    {
+      "items": [
+        34,
+        124
+      ],
+      "numerator": 390763,
+      "denominator": 20
+    },
+    {
+      "items": [
+        55,
+        103
+      ],
+      "numerator": 488017,
+      "denominator": 25
+    },
+    {
+      "items": [
+        52,
+        88
+      ],
+      "numerator": 1951541,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        124
+      ],
+      "numerator": 1949857,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        52
+      ],
+      "numerator": 1949597,
+      "denominator": 100
+    },
+    {
+      "items": [
+        121,
+        127
+      ],
+      "numerator": 974273,
+      "denominator": 50
+    },
+    {
+      "items": [
+        16,
+        37
+      ],
+      "numerator": 486857,
+      "denominator": 25
+    },
+    {
+      "items": [
+        52,
+        124
+      ],
+      "numerator": 389473,
+      "denominator": 20
+    },
+    {
+      "items": [
+        52,
+        106
+      ],
+      "numerator": 1946217,
+      "denominator": 100
+    },
+    {
+      "items": [
+        121,
+        124
+      ],
+      "numerator": 1945457,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        52
+      ],
+      "numerator": 485964,
+      "denominator": 25
+    },
+    {
+      "items": [
+        75,
+        121
+      ],
+      "numerator": 1943771,
+      "denominator": 100
+    },
+    {
+      "items": [
+        109,
+        121
+      ],
+      "numerator": 485389,
+      "denominator": 25
+    },
+    {
+      "items": [
+        91,
+        121
+      ],
+      "numerator": 485234,
+      "denominator": 25
+    },
+    {
+      "items": [
+        19,
+        103
+      ],
+      "numerator": 1940737,
+      "denominator": 100
+    },
+    {
+      "items": [
+        88,
+        103
+      ],
+      "numerator": 484947,
+      "denominator": 25
+    },
+    {
+      "items": [
+        55,
+        121
+      ],
+      "numerator": 1935909,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        103
+      ],
+      "numerator": 483896,
+      "denominator": 25
+    },
+    {
+      "items": [
+        72,
+        85
+      ],
+      "numerator": 1934999,
+      "denominator": 100
+    },
+    {
+      "items": [
+        103,
+        124
+      ],
+      "numerator": 1929971,
+      "denominator": 100
+    },
+    {
+      "items": [
+        106,
+        121
+      ],
+      "numerator": 482262,
+      "denominator": 25
+    },
+    {
+      "items": [
+        37,
+        121
+      ],
+      "numerator": 96429,
+      "denominator": 5
+    },
+    {
+      "items": [
+        19,
+        121
+      ],
+      "numerator": 963903,
+      "denominator": 50
+    },
+    {
+      "items": [
+        16,
+        72
+      ],
+      "numerator": 96362,
+      "denominator": 5
+    },
+    {
+      "items": [
+        34,
+        72
+      ],
+      "numerator": 481671,
+      "denominator": 25
+    },
+    {
+      "items": [
+        88,
+        121
+      ],
+      "numerator": 384663,
+      "denominator": 20
+    },
+    {
+      "items": [
+        52,
+        72
+      ],
+      "numerator": 1922707,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        85
+      ],
+      "numerator": 959761,
+      "denominator": 50
+    },
+    {
+      "items": [
+        16,
+        85
+      ],
+      "numerator": 1916361,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        103
+      ],
+      "numerator": 957787,
+      "denominator": 50
+    },
+    {
+      "items": [
+        69,
+        75
+      ],
+      "numerator": 477199,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        34
+      ],
+      "numerator": 1908617,
+      "denominator": 100
+    },
+    {
+      "items": [
+        69,
+        72
+      ],
+      "numerator": 476453,
+      "denominator": 25
+    },
+    {
+      "items": [
+        85,
+        103
+      ],
+      "numerator": 1905197,
+      "denominator": 100
+    },
+    {
+      "items": [
+        52,
+        85
+      ],
+      "numerator": 1905079,
+      "denominator": 100
+    },
+    {
+      "items": [
+        69,
+        127
+      ],
+      "numerator": 1902437,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        52
+      ],
+      "numerator": 475064,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        52
+      ],
+      "numerator": 1900131,
+      "denominator": 100
+    },
+    {
+      "items": [
+        69,
+        109
+      ],
+      "numerator": 94852,
+      "denominator": 5
+    },
+    {
+      "items": [
+        72,
+        121
+      ],
+      "numerator": 947267,
+      "denominator": 50
+    },
+    {
+      "items": [
+        69,
+        91
+      ],
+      "numerator": 946517,
+      "denominator": 50
+    },
+    {
+      "items": [
+        82,
+        85
+      ],
+      "numerator": 1892127,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        69
+      ],
+      "numerator": 946007,
+      "denominator": 50
+    },
+    {
+      "items": [
+        16,
+        103
+      ],
+      "numerator": 945029,
+      "denominator": 50
+    },
+    {
+      "items": [
+        34,
+        103
+      ],
+      "numerator": 1889089,
+      "denominator": 100
+    },
+    {
+      "items": [
+        52,
+        103
+      ],
+      "numerator": 377699,
+      "denominator": 20
+    },
+    {
+      "items": [
+        85,
+        121
+      ],
+      "numerator": 471626,
+      "denominator": 25
+    },
+    {
+      "items": [
+        19,
+        69
+      ],
+      "numerator": 188541,
+      "denominator": 10
+    },
+    {
+      "items": [
+        69,
+        88
+      ],
+      "numerator": 188349,
+      "denominator": 10
+    },
+    {
+      "items": [
+        82,
+        91
+      ],
+      "numerator": 376681,
+      "denominator": 20
+    },
+    {
+      "items": [
+        82,
+        127
+      ],
+      "numerator": 75335,
+      "denominator": 4
+    },
+    {
+      "items": [
+        75,
+        82
+      ],
+      "numerator": 470733,
+      "denominator": 25
+    },
+    {
+      "items": [
+        82,
+        109
+      ],
+      "numerator": 188203,
+      "denominator": 10
+    },
+    {
+      "items": [
+        82,
+        88
+      ],
+      "numerator": 1881901,
+      "denominator": 100
+    },
+    {
+      "items": [
+        69,
+        106
+      ],
+      "numerator": 940387,
+      "denominator": 50
+    },
+    {
+      "items": [
+        94
+      ],
+      "numerator": 94033,
+      "denominator": 5
+    },
+    {
+      "items": [
+        34,
+        121
+      ],
+      "numerator": 470013,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        121
+      ],
+      "numerator": 469509,
+      "denominator": 25
+    },
+    {
+      "items": [
+        37,
+        69
+      ],
+      "numerator": 1876699,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        82
+      ],
+      "numerator": 1876599,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        16
+      ],
+      "numerator": 93721,
+      "denominator": 5
+    },
+    {
+      "items": [
+        13,
+        127
+      ],
+      "numerator": 74967,
+      "denominator": 4
+    },
+    {
+      "items": [
+        52,
+        121
+      ],
+      "numerator": 374719,
+      "denominator": 20
+    },
+    {
+      "items": [
+        69,
+        124
+      ],
+      "numerator": 1873503,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        82
+      ],
+      "numerator": 1871397,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        19
+      ],
+      "numerator": 1870173,
+      "denominator": 100
+    },
+    {
+      "items": [
+        82,
+        106
+      ],
+      "numerator": 467516,
+      "denominator": 25
+    },
+    {
+      "items": [
+        13,
+        75
+      ],
+      "numerator": 373741,
+      "denominator": 20
+    },
+    {
+      "items": [
+        13,
+        109
+      ],
+      "numerator": 1867321,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        82
+      ],
+      "numerator": 18662,
+      "denominator": 1
+    },
+    {
+      "items": [
+        13,
+        91
+      ],
+      "numerator": 933007,
+      "denominator": 50
+    },
+    {
+      "items": [
+        82,
+        124
+      ],
+      "numerator": 93256,
+      "denominator": 5
+    },
+    {
+      "items": [
+        13,
+        55
+      ],
+      "numerator": 1862729,
+      "denominator": 100
+    },
+    {
+      "items": [
+        103,
+        121
+      ],
+      "numerator": 1861657,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        34
+      ],
+      "numerator": 930791,
+      "denominator": 50
+    },
+    {
+      "items": [
+        31,
+        127
+      ],
+      "numerator": 1855787,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        106
+      ],
+      "numerator": 463256,
+      "denominator": 25
+    },
+    {
+      "items": [
+        13,
+        88
+      ],
+      "numerator": 926389,
+      "denominator": 50
+    },
+    {
+      "items": [
+        31,
+        109
+      ],
+      "numerator": 463179,
+      "denominator": 25
+    },
+    {
+      "items": [
+        31,
+        75
+      ],
+      "numerator": 1850803,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        37
+      ],
+      "numerator": 1848327,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        37
+      ],
+      "numerator": 923967,
+      "denominator": 50
+    },
+    {
+      "items": [
+        19,
+        31
+      ],
+      "numerator": 1847131,
+      "denominator": 100
+    },
+    {
+      "items": [
+        49,
+        55
+      ],
+      "numerator": 1846863,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        91
+      ],
+      "numerator": 923283,
+      "denominator": 50
+    },
+    {
+      "items": [
+        13,
+        124
+      ],
+      "numerator": 1846127,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        55
+      ],
+      "numerator": 1843861,
+      "denominator": 100
+    },
+    {
+      "items": [
+        69,
+        85
+      ],
+      "numerator": 1843241,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        82
+      ],
+      "numerator": 920347,
+      "denominator": 50
+    },
+    {
+      "items": [
+        49,
+        75
+      ],
+      "numerator": 1840657,
+      "denominator": 100
+    },
+    {
+      "items": [
+        49,
+        127
+      ],
+      "numerator": 459667,
+      "denominator": 25
+    },
+    {
+      "items": [
+        49,
+        52
+      ],
+      "numerator": 459517,
+      "denominator": 25
+    },
+    {
+      "items": [
+        49,
+        109
+      ],
+      "numerator": 1836177,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        106
+      ],
+      "numerator": 458846,
+      "denominator": 25
+    },
+    {
+      "items": [
+        31,
+        88
+      ],
+      "numerator": 458632,
+      "denominator": 25
+    },
+    {
+      "items": [
+        34,
+        69
+      ],
+      "numerator": 1833253,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        124
+      ],
+      "numerator": 916617,
+      "denominator": 50
+    },
+    {
+      "items": [
+        16,
+        69
+      ],
+      "numerator": 1831107,
+      "denominator": 100
+    },
+    {
+      "items": [
+        49,
+        91
+      ],
+      "numerator": 1830393,
+      "denominator": 100
+    },
+    {
+      "items": [
+        52,
+        69
+      ],
+      "numerator": 73127,
+      "denominator": 4
+    },
+    {
+      "items": [
+        100,
+        106
+      ],
+      "numerator": 18269,
+      "denominator": 1
+    },
+    {
+      "items": [
+        49,
+        88
+      ],
+      "numerator": 456688,
+      "denominator": 25
+    },
+    {
+      "items": [
+        100,
+        127
+      ],
+      "numerator": 1824733,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        72
+      ],
+      "numerator": 182391,
+      "denominator": 10
+    },
+    {
+      "items": [
+        16,
+        82
+      ],
+      "numerator": 910899,
+      "denominator": 50
+    },
+    {
+      "items": [
+        19,
+        49
+      ],
+      "numerator": 1820607,
+      "denominator": 100
+    },
+    {
+      "items": [
+        49,
+        106
+      ],
+      "numerator": 455081,
+      "denominator": 25
+    },
+    {
+      "items": [
+        34,
+        82
+      ],
+      "numerator": 1819461,
+      "denominator": 100
+    },
+    {
+      "items": [
+        75,
+        100
+      ],
+      "numerator": 909671,
+      "denominator": 50
+    },
+    {
+      "items": [
+        49,
+        124
+      ],
+      "numerator": 908779,
+      "denominator": 50
+    },
+    {
+      "items": [
+        52,
+        82
+      ],
+      "numerator": 363363,
+      "denominator": 20
+    },
+    {
+      "items": [
+        100,
+        103
+      ],
+      "numerator": 908301,
+      "denominator": 50
+    },
+    {
+      "items": [
+        37,
+        49
+      ],
+      "numerator": 1815681,
+      "denominator": 100
+    },
+    {
+      "items": [
+        100,
+        109
+      ],
+      "numerator": 907727,
+      "denominator": 50
+    },
+    {
+      "items": [
+        69,
+        103
+      ],
+      "numerator": 907601,
+      "denominator": 50
+    },
+    {
+      "items": [
+        31,
+        72
+      ],
+      "numerator": 1812519,
+      "denominator": 100
+    },
+    {
+      "items": [
+        91,
+        100
+      ],
+      "numerator": 906043,
+      "denominator": 50
+    },
+    {
+      "items": [
+        55,
+        100
+      ],
+      "numerator": 1811771,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        85
+      ],
+      "numerator": 452288,
+      "denominator": 25
+    },
+    {
+      "items": [
+        69,
+        121
+      ],
+      "numerator": 361789,
+      "denominator": 20
+    },
+    {
+      "items": [
+        13,
+        34
+      ],
+      "numerator": 1807591,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        100
+      ],
+      "numerator": 361147,
+      "denominator": 20
+    },
+    {
+      "items": [
+        88,
+        100
+      ],
+      "numerator": 450982,
+      "denominator": 25
+    },
+    {
+      "items": [
+        82,
+        103
+      ],
+      "numerator": 1802017,
+      "denominator": 100
+    },
+    {
+      "items": [
+        100,
+        124
+      ],
+      "numerator": 359459,
+      "denominator": 20
+    },
+    {
+      "items": [
+        37,
+        100
+      ],
+      "numerator": 898549,
+      "denominator": 50
+    },
+    {
+      "items": [
+        31,
+        85
+      ],
+      "numerator": 898231,
+      "denominator": 50
+    },
+    {
+      "items": [
+        13,
+        52
+      ],
+      "numerator": 897757,
+      "denominator": 50
+    },
+    {
+      "items": [
+        49,
+        72
+      ],
+      "numerator": 358893,
+      "denominator": 20
+    },
+    {
+      "items": [
+        82,
+        121
+      ],
+      "numerator": 447054,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        31
+      ],
+      "numerator": 1787197,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        103
+      ],
+      "numerator": 1785447,
+      "denominator": 100
+    },
+    {
+      "items": [
+        118,
+        127
+      ],
+      "numerator": 445441,
+      "denominator": 25
+    },
+    {
+      "items": [
+        49,
+        85
+      ],
+      "numerator": 71265,
+      "denominator": 4
+    },
+    {
+      "items": [
+        31,
+        52
+      ],
+      "numerator": 1780623,
+      "denominator": 100
+    },
+    {
+      "items": [
+        118,
+        121
+      ],
+      "numerator": 17801,
+      "denominator": 1
+    },
+    {
+      "items": [
+        118,
+        124
+      ],
+      "numerator": 889453,
+      "denominator": 50
+    },
+    {
+      "items": [
+        13,
+        121
+      ],
+      "numerator": 1777007,
+      "denominator": 100
+    },
+    {
+      "items": [
+        75,
+        118
+      ],
+      "numerator": 887979,
+      "denominator": 50
+    },
+    {
+      "items": [
+        91,
+        118
+      ],
+      "numerator": 887923,
+      "denominator": 50
+    },
+    {
+      "items": [
+        31,
+        103
+      ],
+      "numerator": 1774979,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        100
+      ],
+      "numerator": 443612,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        49
+      ],
+      "numerator": 1773569,
+      "denominator": 100
+    },
+    {
+      "items": [
+        109,
+        118
+      ],
+      "numerator": 1772873,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        49
+      ],
+      "numerator": 1771211,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        118
+      ],
+      "numerator": 1769381,
+      "denominator": 100
+    },
+    {
+      "items": [
+        85,
+        100
+      ],
+      "numerator": 1766493,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        118
+      ],
+      "numerator": 353111,
+      "denominator": 20
+    },
+    {
+      "items": [
+        37,
+        118
+      ],
+      "numerator": 352151,
+      "denominator": 20
+    },
+    {
+      "items": [
+        40
+      ],
+      "numerator": 176041,
+      "denominator": 10
+    },
+    {
+      "items": [
+        31,
+        121
+      ],
+      "numerator": 439946,
+      "denominator": 25
+    },
+    {
+      "items": [
+        88,
+        118
+      ],
+      "numerator": 351583,
+      "denominator": 20
+    },
+    {
+      "items": [
+        49,
+        103
+      ],
+      "numerator": 878953,
+      "denominator": 50
+    },
+    {
+      "items": [
+        106,
+        118
+      ],
+      "numerator": 1754207,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        100
+      ],
+      "numerator": 1753299,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        100
+      ],
+      "numerator": 1752157,
+      "denominator": 100
+    },
+    {
+      "items": [
+        66,
+        75
+      ],
+      "numerator": 437069,
+      "denominator": 25
+    },
+    {
+      "items": [
+        52,
+        100
+      ],
+      "numerator": 1747011,
+      "denominator": 100
+    },
+    {
+      "items": [
+        69,
+        82
+      ],
+      "numerator": 436703,
+      "denominator": 25
+    },
+    {
+      "items": [
+        49,
+        121
+      ],
+      "numerator": 34871,
+      "denominator": 2
+    },
+    {
+      "items": [
+        66,
+        72
+      ],
+      "numerator": 1743127,
+      "denominator": 100
+    },
+    {
+      "items": [
+        66,
+        127
+      ],
+      "numerator": 871187,
+      "denominator": 50
+    },
+    {
+      "items": [
+        66,
+        69
+      ],
+      "numerator": 868117,
+      "denominator": 50
+    },
+    {
+      "items": [
+        66,
+        91
+      ],
+      "numerator": 173577,
+      "denominator": 10
+    },
+    {
+      "items": [
+        66,
+        109
+      ],
+      "numerator": 34683,
+      "denominator": 2
+    },
+    {
+      "items": [
+        72,
+        118
+      ],
+      "numerator": 1732529,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        69
+      ],
+      "numerator": 1731527,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        66
+      ],
+      "numerator": 346049,
+      "denominator": 20
+    },
+    {
+      "items": [
+        66,
+        106
+      ],
+      "numerator": 1724427,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        66
+      ],
+      "numerator": 1723627,
+      "denominator": 100
+    },
+    {
+      "items": [
+        66,
+        88
+      ],
+      "numerator": 861639,
+      "denominator": 50
+    },
+    {
+      "items": [
+        85,
+        118
+      ],
+      "numerator": 859931,
+      "denominator": 50
+    },
+    {
+      "items": [
+        100,
+        121
+      ],
+      "numerator": 34397,
+      "denominator": 2
+    },
+    {
+      "items": [
+        13,
+        82
+      ],
+      "numerator": 1719543,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        66
+      ],
+      "numerator": 343879,
+      "denominator": 20
+    },
+    {
+      "items": [
+        66,
+        124
+      ],
+      "numerator": 428851,
+      "denominator": 25
+    },
+    {
+      "items": [
+        31,
+        69
+      ],
+      "numerator": 1715109,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        118
+      ],
+      "numerator": 427971,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        118
+      ],
+      "numerator": 1711311,
+      "denominator": 100
+    },
+    {
+      "items": [
+        52,
+        118
+      ],
+      "numerator": 1704181,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        82
+      ],
+      "numerator": 1704157,
+      "denominator": 100
+    },
+    {
+      "items": [
+        49,
+        69
+      ],
+      "numerator": 424954,
+      "denominator": 25
+    },
+    {
+      "items": [
+        103,
+        118
+      ],
+      "numerator": 1695787,
+      "denominator": 100
+    },
+    {
+      "items": [
+        79,
+        85
+      ],
+      "numerator": 1686131,
+      "denominator": 100
+    },
+    {
+      "items": [
+        49,
+        82
+      ],
+      "numerator": 1686023,
+      "denominator": 100
+    },
+    {
+      "items": [
+        66,
+        85
+      ],
+      "numerator": 841689,
+      "denominator": 50
+    },
+    {
+      "items": [
+        79,
+        127
+      ],
+      "numerator": 1682869,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        31
+      ],
+      "numerator": 168247,
+      "denominator": 10
+    },
+    {
+      "items": [
+        69,
+        100
+      ],
+      "numerator": 420202,
+      "denominator": 25
+    },
+    {
+      "items": [
+        10,
+        13
+      ],
+      "numerator": 336009,
+      "denominator": 20
+    },
+    {
+      "items": [
+        79,
+        82
+      ],
+      "numerator": 1679507,
+      "denominator": 100
+    },
+    {
+      "items": [
+        79,
+        88
+      ],
+      "numerator": 839403,
+      "denominator": 50
+    },
+    {
+      "items": [
+        10,
+        16
+      ],
+      "numerator": 838181,
+      "denominator": 50
+    },
+    {
+      "items": [
+        75,
+        79
+      ],
+      "numerator": 838179,
+      "denominator": 50
+    },
+    {
+      "items": [
+        34,
+        66
+      ],
+      "numerator": 1676049,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        75
+      ],
+      "numerator": 335123,
+      "denominator": 20
+    },
+    {
+      "items": [
+        79,
+        109
+      ],
+      "numerator": 418852,
+      "denominator": 25
+    },
+    {
+      "items": [
+        79,
+        91
+      ],
+      "numerator": 1674621,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        19
+      ],
+      "numerator": 1674463,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        127
+      ],
+      "numerator": 418057,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        66
+      ],
+      "numerator": 33441,
+      "denominator": 2
+    },
+    {
+      "items": [
+        55,
+        79
+      ],
+      "numerator": 1670989,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        109
+      ],
+      "numerator": 835389,
+      "denominator": 50
+    },
+    {
+      "items": [
+        82,
+        100
+      ],
+      "numerator": 1667681,
+      "denominator": 100
+    },
+    {
+      "items": [
+        52,
+        66
+      ],
+      "numerator": 1666939,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        91
+      ],
+      "numerator": 1665893,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        79
+      ],
+      "numerator": 1665601,
+      "denominator": 100
+    },
+    {
+      "items": [
+        79,
+        106
+      ],
+      "numerator": 416379,
+      "denominator": 25
+    },
+    {
+      "items": [
+        13,
+        49
+      ],
+      "numerator": 832513,
+      "denominator": 50
+    },
+    {
+      "items": [
+        10,
+        55
+      ],
+      "numerator": 33265,
+      "denominator": 2
+    },
+    {
+      "items": [
+        10,
+        88
+      ],
+      "numerator": 1658483,
+      "denominator": 100
+    },
+    {
+      "items": [
+        66,
+        103
+      ],
+      "numerator": 414551,
+      "denominator": 25
+    },
+    {
+      "items": [
+        37,
+        79
+      ],
+      "numerator": 828659,
+      "denominator": 50
+    },
+    {
+      "items": [
+        10,
+        106
+      ],
+      "numerator": 1654557,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        124
+      ],
+      "numerator": 1654137,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        49
+      ],
+      "numerator": 826609,
+      "denominator": 50
+    },
+    {
+      "items": [
+        28,
+        31
+      ],
+      "numerator": 1653157,
+      "denominator": 100
+    },
+    {
+      "items": [
+        79,
+        124
+      ],
+      "numerator": 825889,
+      "denominator": 50
+    },
+    {
+      "items": [
+        28,
+        34
+      ],
+      "numerator": 1651241,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        37
+      ],
+      "numerator": 1650831,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        100
+      ],
+      "numerator": 329753,
+      "denominator": 20
+    },
+    {
+      "items": [
+        28,
+        109
+      ],
+      "numerator": 1645313,
+      "denominator": 100
+    },
+    {
+      "items": [
+        28,
+        127
+      ],
+      "numerator": 822143,
+      "denominator": 50
+    },
+    {
+      "items": [
+        66,
+        121
+      ],
+      "numerator": 821457,
+      "denominator": 50
+    },
+    {
+      "items": [
+        31,
+        100
+      ],
+      "numerator": 1642719,
+      "denominator": 100
+    },
+    {
+      "items": [
+        28,
+        75
+      ],
+      "numerator": 164217,
+      "denominator": 10
+    },
+    {
+      "items": [
+        28,
+        91
+      ],
+      "numerator": 820191,
+      "denominator": 50
+    },
+    {
+      "items": [
+        69,
+        118
+      ],
+      "numerator": 163793,
+      "denominator": 10
+    },
+    {
+      "items": [
+        28,
+        37
+      ],
+      "numerator": 409156,
+      "denominator": 25
+    },
+    {
+      "items": [
+        112
+      ],
+      "numerator": 81799,
+      "denominator": 5
+    },
+    {
+      "items": [
+        19,
+        28
+      ],
+      "numerator": 1635431,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        79
+      ],
+      "numerator": 408782,
+      "denominator": 25
+    },
+    {
+      "items": [
+        28,
+        55
+      ],
+      "numerator": 408548,
+      "denominator": 25
+    },
+    {
+      "items": [
+        10,
+        72
+      ],
+      "numerator": 163073,
+      "denominator": 10
+    },
+    {
+      "items": [
+        82,
+        118
+      ],
+      "numerator": 1628099,
+      "denominator": 100
+    },
+    {
+      "items": [
+        28,
+        106
+      ],
+      "numerator": 1625903,
+      "denominator": 100
+    },
+    {
+      "items": [
+        28,
+        88
+      ],
+      "numerator": 325047,
+      "denominator": 20
+    },
+    {
+      "items": [
+        49,
+        100
+      ],
+      "numerator": 324071,
+      "denominator": 20
+    },
+    {
+      "items": [
+        28,
+        124
+      ],
+      "numerator": 1619537,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        79
+      ],
+      "numerator": 1618529,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        85
+      ],
+      "numerator": 1616937,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        79
+      ],
+      "numerator": 402999,
+      "denominator": 25
+    },
+    {
+      "items": [
+        46,
+        55
+      ],
+      "numerator": 1611577,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        118
+      ],
+      "numerator": 1611293,
+      "denominator": 100
+    },
+    {
+      "items": [
+        52,
+        79
+      ],
+      "numerator": 16071,
+      "denominator": 1
+    },
+    {
+      "items": [
+        10,
+        34
+      ],
+      "numerator": 1606749,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        49
+      ],
+      "numerator": 400849,
+      "denominator": 25
+    },
+    {
+      "items": [
+        28,
+        72
+      ],
+      "numerator": 1602257,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        75
+      ],
+      "numerator": 1601049,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        127
+      ],
+      "numerator": 1599207,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        52
+      ],
+      "numerator": 1598211,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        91
+      ],
+      "numerator": 159817,
+      "denominator": 10
+    },
+    {
+      "items": [
+        79,
+        103
+      ],
+      "numerator": 1596533,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        109
+      ],
+      "numerator": 1595819,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        52
+      ],
+      "numerator": 1593287,
+      "denominator": 100
+    },
+    {
+      "items": [
+        60
+      ],
+      "numerator": 159207,
+      "denominator": 10
+    },
+    {
+      "items": [
+        10,
+        103
+      ],
+      "numerator": 397839,
+      "denominator": 25
+    },
+    {
+      "items": [
+        31,
+        118
+      ],
+      "numerator": 795301,
+      "denominator": 50
+    },
+    {
+      "items": [
+        46,
+        88
+      ],
+      "numerator": 1590103,
+      "denominator": 100
+    },
+    {
+      "items": [
+        66,
+        82
+      ],
+      "numerator": 397256,
+      "denominator": 25
+    },
+    {
+      "items": [
+        28,
+        85
+      ],
+      "numerator": 1586657,
+      "denominator": 100
+    },
+    {
+      "items": [
+        79,
+        121
+      ],
+      "numerator": 396498,
+      "denominator": 25
+    },
+    {
+      "items": [
+        10,
+        121
+      ],
+      "numerator": 791987,
+      "denominator": 50
+    },
+    {
+      "items": [
+        46,
+        106
+      ],
+      "numerator": 1583521,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        46
+      ],
+      "numerator": 1581119,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        124
+      ],
+      "numerator": 1580719,
+      "denominator": 100
+    },
+    {
+      "items": [
+        49,
+        118
+      ],
+      "numerator": 1580347,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        28
+      ],
+      "numerator": 315977,
+      "denominator": 20
+    },
+    {
+      "items": [
+        13,
+        66
+      ],
+      "numerator": 1579463,
+      "denominator": 100
+    },
+    {
+      "items": [
+        28,
+        52
+      ],
+      "numerator": 157809,
+      "denominator": 10
+    },
+    {
+      "items": [
+        37,
+        46
+      ],
+      "numerator": 788587,
+      "denominator": 50
+    },
+    {
+      "items": [
+        28,
+        103
+      ],
+      "numerator": 1570807,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        66
+      ],
+      "numerator": 1564361,
+      "denominator": 100
+    },
+    {
+      "items": [
+        100,
+        118
+      ],
+      "numerator": 1561313,
+      "denominator": 100
+    },
+    {
+      "items": [
+        97,
+        106
+      ],
+      "numerator": 1555393,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        72
+      ],
+      "numerator": 388698,
+      "denominator": 25
+    },
+    {
+      "items": [
+        28,
+        121
+      ],
+      "numerator": 1551001,
+      "denominator": 100
+    },
+    {
+      "items": [
+        97,
+        127
+      ],
+      "numerator": 774563,
+      "denominator": 50
+    },
+    {
+      "items": [
+        49,
+        66
+      ],
+      "numerator": 386721,
+      "denominator": 25
+    },
+    {
+      "items": [
+        69,
+        79
+      ],
+      "numerator": 309311,
+      "denominator": 20
+    },
+    {
+      "items": [
+        46,
+        85
+      ],
+      "numerator": 773161,
+      "denominator": 50
+    },
+    {
+      "items": [
+        97,
+        103
+      ],
+      "numerator": 1545173,
+      "denominator": 100
+    },
+    {
+      "items": [
+        97,
+        109
+      ],
+      "numerator": 772357,
+      "denominator": 50
+    },
+    {
+      "items": [
+        97,
+        100
+      ],
+      "numerator": 772011,
+      "denominator": 50
+    },
+    {
+      "items": [
+        75,
+        97
+      ],
+      "numerator": 1541923,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        97
+      ],
+      "numerator": 1541763,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        69
+      ],
+      "numerator": 385047,
+      "denominator": 25
+    },
+    {
+      "items": [
+        91,
+        97
+      ],
+      "numerator": 1539681,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        46
+      ],
+      "numerator": 1533999,
+      "denominator": 100
+    },
+    {
+      "items": [
+        88,
+        97
+      ],
+      "numerator": 1533871,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        82
+      ],
+      "numerator": 1532969,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        97
+      ],
+      "numerator": 1532057,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        46
+      ],
+      "numerator": 765201,
+      "denominator": 50
+    },
+    {
+      "items": [
+        66,
+        100
+      ],
+      "numerator": 1527257,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        97
+      ],
+      "numerator": 762579,
+      "denominator": 50
+    },
+    {
+      "items": [
+        97,
+        124
+      ],
+      "numerator": 1524383,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        103
+      ],
+      "numerator": 380336,
+      "denominator": 25
+    },
+    {
+      "items": [
+        13,
+        79
+      ],
+      "numerator": 1516947,
+      "denominator": 100
+    },
+    {
+      "items": [
+        28,
+        69
+      ],
+      "numerator": 1515549,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        121
+      ],
+      "numerator": 378397,
+      "denominator": 25
+    },
+    {
+      "items": [
+        72,
+        97
+      ],
+      "numerator": 1503917,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        79
+      ],
+      "numerator": 375889,
+      "denominator": 25
+    },
+    {
+      "items": [
+        28,
+        82
+      ],
+      "numerator": 751519,
+      "denominator": 50
+    },
+    {
+      "items": [
+        49,
+        79
+      ],
+      "numerator": 1496643,
+      "denominator": 100
+    },
+    {
+      "items": [
+        85,
+        97
+      ],
+      "numerator": 1496357,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        31
+      ],
+      "numerator": 745993,
+      "denominator": 50
+    },
+    {
+      "items": [
+        66,
+        118
+      ],
+      "numerator": 1489063,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        97
+      ],
+      "numerator": 1487361,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        97
+      ],
+      "numerator": 74212,
+      "denominator": 5
+    },
+    {
+      "items": [
+        13,
+        28
+      ],
+      "numerator": 1483103,
+      "denominator": 100
+    },
+    {
+      "items": [
+        52,
+        97
+      ],
+      "numerator": 295041,
+      "denominator": 20
+    },
+    {
+      "items": [
+        10,
+        49
+      ],
+      "numerator": 1474259,
+      "denominator": 100
+    },
+    {
+      "items": [
+        79,
+        100
+      ],
+      "numerator": 294057,
+      "denominator": 20
+    },
+    {
+      "items": [
+        46,
+        82
+      ],
+      "numerator": 732609,
+      "denominator": 50
+    },
+    {
+      "items": [
+        46,
+        69
+      ],
+      "numerator": 1464919,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        100
+      ],
+      "numerator": 1464127,
+      "denominator": 100
+    },
+    {
+      "items": [
+        115,
+        124
+      ],
+      "numerator": 14626,
+      "denominator": 1
+    },
+    {
+      "items": [
+        115,
+        127
+      ],
+      "numerator": 730491,
+      "denominator": 50
+    },
+    {
+      "items": [
+        115,
+        121
+      ],
+      "numerator": 292041,
+      "denominator": 20
+    },
+    {
+      "items": [
+        91,
+        115
+      ],
+      "numerator": 1459333,
+      "denominator": 100
+    },
+    {
+      "items": [
+        115,
+        118
+      ],
+      "numerator": 1458089,
+      "denominator": 100
+    },
+    {
+      "items": [
+        97,
+        121
+      ],
+      "numerator": 729019,
+      "denominator": 50
+    },
+    {
+      "items": [
+        75,
+        115
+      ],
+      "numerator": 364041,
+      "denominator": 25
+    },
+    {
+      "items": [
+        28,
+        49
+      ],
+      "numerator": 363353,
+      "denominator": 25
+    },
+    {
+      "items": [
+        109,
+        115
+      ],
+      "numerator": 362938,
+      "denominator": 25
+    },
+    {
+      "items": [
+        55,
+        115
+      ],
+      "numerator": 724277,
+      "denominator": 50
+    },
+    {
+      "items": [
+        19,
+        115
+      ],
+      "numerator": 144637,
+      "denominator": 10
+    },
+    {
+      "items": [
+        28,
+        100
+      ],
+      "numerator": 288809,
+      "denominator": 20
+    },
+    {
+      "items": [
+        106,
+        115
+      ],
+      "numerator": 1441537,
+      "denominator": 100
+    },
+    {
+      "items": [
+        88,
+        115
+      ],
+      "numerator": 288251,
+      "denominator": 20
+    },
+    {
+      "items": [
+        37,
+        115
+      ],
+      "numerator": 719327,
+      "denominator": 50
+    },
+    {
+      "items": [
+        79,
+        118
+      ],
+      "numerator": 1434651,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        46
+      ],
+      "numerator": 1431851,
+      "denominator": 100
+    },
+    {
+      "items": [
+        24
+      ],
+      "numerator": 71591,
+      "denominator": 5
+    },
+    {
+      "items": [
+        10,
+        118
+      ],
+      "numerator": 1429441,
+      "denominator": 100
+    },
+    {
+      "items": [
+        63,
+        75
+      ],
+      "numerator": 1427439,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        46
+      ],
+      "numerator": 1423047,
+      "denominator": 100
+    },
+    {
+      "items": [
+        63,
+        72
+      ],
+      "numerator": 355584,
+      "denominator": 25
+    },
+    {
+      "items": [
+        72,
+        115
+      ],
+      "numerator": 1421411,
+      "denominator": 100
+    },
+    {
+      "items": [
+        69,
+        97
+      ],
+      "numerator": 283897,
+      "denominator": 20
+    },
+    {
+      "items": [
+        63,
+        127
+      ],
+      "numerator": 56693,
+      "denominator": 4
+    },
+    {
+      "items": [
+        63,
+        69
+      ],
+      "numerator": 1416603,
+      "denominator": 100
+    },
+    {
+      "items": [
+        63,
+        109
+      ],
+      "numerator": 1415223,
+      "denominator": 100
+    },
+    {
+      "items": [
+        63,
+        91
+      ],
+      "numerator": 1414483,
+      "denominator": 100
+    },
+    {
+      "items": [
+        63,
+        66
+      ],
+      "numerator": 353487,
+      "denominator": 25
+    },
+    {
+      "items": [
+        28,
+        118
+      ],
+      "numerator": 70643,
+      "denominator": 5
+    },
+    {
+      "items": [
+        55,
+        63
+      ],
+      "numerator": 352949,
+      "denominator": 25
+    },
+    {
+      "items": [
+        85,
+        115
+      ],
+      "numerator": 1411219,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        63
+      ],
+      "numerator": 1407883,
+      "denominator": 100
+    },
+    {
+      "items": [
+        63,
+        106
+      ],
+      "numerator": 1406833,
+      "denominator": 100
+    },
+    {
+      "items": [
+        82,
+        97
+      ],
+      "numerator": 702993,
+      "denominator": 50
+    },
+    {
+      "items": [
+        63,
+        88
+      ],
+      "numerator": 1405131,
+      "denominator": 100
+    },
+    {
+      "items": [
+        63,
+        124
+      ],
+      "numerator": 280187,
+      "denominator": 20
+    },
+    {
+      "items": [
+        46,
+        100
+      ],
+      "numerator": 140087,
+      "denominator": 10
+    },
+    {
+      "items": [
+        34,
+        115
+      ],
+      "numerator": 70006,
+      "denominator": 5
+    },
+    {
+      "items": [
+        66,
+        79
+      ],
+      "numerator": 279869,
+      "denominator": 20
+    },
+    {
+      "items": [
+        37,
+        63
+      ],
+      "numerator": 1398071,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        115
+      ],
+      "numerator": 279549,
+      "denominator": 20
+    },
+    {
+      "items": [
+        10,
+        66
+      ],
+      "numerator": 1397089,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        97
+      ],
+      "numerator": 696811,
+      "denominator": 50
+    },
+    {
+      "items": [
+        52,
+        115
+      ],
+      "numerator": 27821,
+      "denominator": 2
+    },
+    {
+      "items": [
+        103,
+        115
+      ],
+      "numerator": 1382919,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        97
+      ],
+      "numerator": 1381969,
+      "denominator": 100
+    },
+    {
+      "items": [
+        4
+      ],
+      "numerator": 13721,
+      "denominator": 1
+    },
+    {
+      "items": [
+        28,
+        66
+      ],
+      "numerator": 342298,
+      "denominator": 25
+    },
+    {
+      "items": [
+        63,
+        85
+      ],
+      "numerator": 684339,
+      "denominator": 50
+    },
+    {
+      "items": [
+        49,
+        97
+      ],
+      "numerator": 273587,
+      "denominator": 20
+    },
+    {
+      "items": [
+        46,
+        118
+      ],
+      "numerator": 1359199,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        63
+      ],
+      "numerator": 1358387,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        63
+      ],
+      "numerator": 1355489,
+      "denominator": 100
+    },
+    {
+      "items": [
+        52,
+        63
+      ],
+      "numerator": 27069,
+      "denominator": 2
+    },
+    {
+      "items": [
+        63,
+        103
+      ],
+      "numerator": 1348737,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        127
+      ],
+      "numerator": 337114,
+      "denominator": 25
+    },
+    {
+      "items": [
+        1,
+        109
+      ],
+      "numerator": 1348373,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        79
+      ],
+      "numerator": 134791,
+      "denominator": 10
+    },
+    {
+      "items": [
+        1,
+        55
+      ],
+      "numerator": 673933,
+      "denominator": 50
+    },
+    {
+      "items": [
+        1,
+        75
+      ],
+      "numerator": 13453,
+      "denominator": 1
+    },
+    {
+      "items": [
+        1,
+        91
+      ],
+      "numerator": 1340269,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        106
+      ],
+      "numerator": 669873,
+      "denominator": 50
+    },
+    {
+      "items": [
+        1,
+        19
+      ],
+      "numerator": 1337083,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        88
+      ],
+      "numerator": 1335609,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        37
+      ],
+      "numerator": 1335379,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        124
+      ],
+      "numerator": 1335029,
+      "denominator": 100
+    },
+    {
+      "items": [
+        69,
+        115
+      ],
+      "numerator": 266611,
+      "denominator": 20
+    },
+    {
+      "items": [
+        63,
+        121
+      ],
+      "numerator": 333223,
+      "denominator": 25
+    },
+    {
+      "items": [
+        46,
+        66
+      ],
+      "numerator": 663469,
+      "denominator": 50
+    },
+    {
+      "items": [
+        82,
+        115
+      ],
+      "numerator": 66274,
+      "denominator": 5
+    },
+    {
+      "items": [
+        97,
+        118
+      ],
+      "numerator": 661171,
+      "denominator": 50
+    },
+    {
+      "items": [
+        28,
+        79
+      ],
+      "numerator": 263831,
+      "denominator": 20
+    },
+    {
+      "items": [
+        1,
+        72
+      ],
+      "numerator": 659317,
+      "denominator": 50
+    },
+    {
+      "items": [
+        7,
+        13
+      ],
+      "numerator": 263003,
+      "denominator": 20
+    },
+    {
+      "items": [
+        7,
+        16
+      ],
+      "numerator": 1312617,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        75
+      ],
+      "numerator": 262403,
+      "denominator": 20
+    },
+    {
+      "items": [
+        7,
+        10
+      ],
+      "numerator": 1308191,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        28
+      ],
+      "numerator": 1307357,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        19
+      ],
+      "numerator": 1306309,
+      "denominator": 100
+    },
+    {
+      "items": [
+        13,
+        115
+      ],
+      "numerator": 653141,
+      "denominator": 50
+    },
+    {
+      "items": [
+        1,
+        16
+      ],
+      "numerator": 65306,
+      "denominator": 5
+    },
+    {
+      "items": [
+        7,
+        127
+      ],
+      "numerator": 1306033,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        85
+      ],
+      "numerator": 1304903,
+      "denominator": 100
+    },
+    {
+      "items": [
+        46,
+        79
+      ],
+      "numerator": 1303343,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        109
+      ],
+      "numerator": 1303311,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        91
+      ],
+      "numerator": 1302827,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        34
+      ],
+      "numerator": 260479,
+      "denominator": 20
+    },
+    {
+      "items": [
+        7,
+        55
+      ],
+      "numerator": 260077,
+      "denominator": 20
+    },
+    {
+      "items": [
+        1,
+        52
+      ],
+      "numerator": 324327,
+      "denominator": 25
+    },
+    {
+      "items": [
+        7,
+        88
+      ],
+      "numerator": 1295761,
+      "denominator": 100
+    },
+    {
+      "items": [
+        31,
+        115
+      ],
+      "numerator": 646793,
+      "denominator": 50
+    },
+    {
+      "items": [
+        7,
+        106
+      ],
+      "numerator": 646201,
+      "denominator": 50
+    },
+    {
+      "items": [
+        1,
+        121
+      ],
+      "numerator": 646093,
+      "denominator": 50
+    },
+    {
+      "items": [
+        1,
+        103
+      ],
+      "numerator": 322781,
+      "denominator": 25
+    },
+    {
+      "items": [
+        7,
+        37
+      ],
+      "numerator": 322591,
+      "denominator": 25
+    },
+    {
+      "items": [
+        7,
+        124
+      ],
+      "numerator": 644921,
+      "denominator": 50
+    },
+    {
+      "items": [
+        63,
+        82
+      ],
+      "numerator": 321859,
+      "denominator": 25
+    },
+    {
+      "items": [
+        49,
+        115
+      ],
+      "numerator": 1283661,
+      "denominator": 100
+    },
+    {
+      "items": [
+        66,
+        97
+      ],
+      "numerator": 1283543,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        72
+      ],
+      "numerator": 254777,
+      "denominator": 20
+    },
+    {
+      "items": [
+        13,
+        63
+      ],
+      "numerator": 1272309,
+      "denominator": 100
+    },
+    {
+      "items": [
+        100,
+        115
+      ],
+      "numerator": 1267263,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        69
+      ],
+      "numerator": 1263439,
+      "denominator": 100
+    },
+    {
+      "items": [
+        10,
+        46
+      ],
+      "numerator": 126103,
+      "denominator": 10
+    },
+    {
+      "items": [
+        31,
+        63
+      ],
+      "numerator": 12590,
+      "denominator": 1
+    },
+    {
+      "items": [
+        7,
+        85
+      ],
+      "numerator": 1257131,
+      "denominator": 100
+    },
+    {
+      "items": [
+        49,
+        63
+      ],
+      "numerator": 625849,
+      "denominator": 50
+    },
+    {
+      "items": [
+        7,
+        34
+      ],
+      "numerator": 1250593,
+      "denominator": 100
+    },
+    {
+      "items": [
+        76,
+        85
+      ],
+      "numerator": 1247257,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        31
+      ],
+      "numerator": 1245451,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        127
+      ],
+      "numerator": 124467,
+      "denominator": 10
+    },
+    {
+      "items": [
+        1,
+        13
+      ],
+      "numerator": 248903,
+      "denominator": 20
+    },
+    {
+      "items": [
+        7,
+        52
+      ],
+      "numerator": 62158,
+      "denominator": 5
+    },
+    {
+      "items": [
+        1,
+        82
+      ],
+      "numerator": 310732,
+      "denominator": 25
+    },
+    {
+      "items": [
+        76,
+        88
+      ],
+      "numerator": 1242031,
+      "denominator": 100
+    },
+    {
+      "items": [
+        76,
+        82
+      ],
+      "numerator": 620891,
+      "denominator": 50
+    },
+    {
+      "items": [
+        76,
+        79
+      ],
+      "numerator": 248333,
+      "denominator": 20
+    },
+    {
+      "items": [
+        25,
+        28
+      ],
+      "numerator": 1241041,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        103
+      ],
+      "numerator": 1240973,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        34
+      ],
+      "numerator": 620367,
+      "denominator": 50
+    },
+    {
+      "items": [
+        76,
+        91
+      ],
+      "numerator": 1240719,
+      "denominator": 100
+    },
+    {
+      "items": [
+        76,
+        127
+      ],
+      "numerator": 309833,
+      "denominator": 25
+    },
+    {
+      "items": [
+        25,
+        91
+      ],
+      "numerator": 309684,
+      "denominator": 25
+    },
+    {
+      "items": [
+        25,
+        75
+      ],
+      "numerator": 1238673,
+      "denominator": 100
+    },
+    {
+      "items": [
+        75,
+        76
+      ],
+      "numerator": 123787,
+      "denominator": 10
+    },
+    {
+      "items": [
+        25,
+        109
+      ],
+      "numerator": 1236993,
+      "denominator": 100
+    },
+    {
+      "items": [
+        28,
+        46
+      ],
+      "numerator": 247213,
+      "denominator": 20
+    },
+    {
+      "items": [
+        76,
+        109
+      ],
+      "numerator": 1235589,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        37
+      ],
+      "numerator": 617541,
+      "denominator": 50
+    },
+    {
+      "items": [
+        79,
+        97
+      ],
+      "numerator": 308299,
+      "denominator": 25
+    },
+    {
+      "items": [
+        25,
+        55
+      ],
+      "numerator": 1232829,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        76
+      ],
+      "numerator": 246391,
+      "denominator": 20
+    },
+    {
+      "items": [
+        63,
+        100
+      ],
+      "numerator": 615977,
+      "denominator": 50
+    },
+    {
+      "items": [
+        19,
+        25
+      ],
+      "numerator": 615663,
+      "denominator": 50
+    },
+    {
+      "items": [
+        7,
+        121
+      ],
+      "numerator": 246177,
+      "denominator": 20
+    },
+    {
+      "items": [
+        76,
+        106
+      ],
+      "numerator": 1228073,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        76
+      ],
+      "numerator": 613073,
+      "denominator": 50
+    },
+    {
+      "items": [
+        10,
+        97
+      ],
+      "numerator": 245181,
+      "denominator": 20
+    },
+    {
+      "items": [
+        19,
+        76
+      ],
+      "numerator": 612177,
+      "denominator": 50
+    },
+    {
+      "items": [
+        76,
+        124
+      ],
+      "numerator": 1224079,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        88
+      ],
+      "numerator": 1223179,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        106
+      ],
+      "numerator": 24443,
+      "denominator": 2
+    },
+    {
+      "items": [
+        1,
+        31
+      ],
+      "numerator": 609849,
+      "denominator": 50
+    },
+    {
+      "items": [
+        25,
+        124
+      ],
+      "numerator": 1219193,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        49
+      ],
+      "numerator": 1215713,
+      "denominator": 100
+    },
+    {
+      "items": [
+        6
+      ],
+      "numerator": 121509,
+      "denominator": 10
+    },
+    {
+      "items": [
+        28,
+        97
+      ],
+      "numerator": 303374,
+      "denominator": 25
+    },
+    {
+      "items": [
+        22
+      ],
+      "numerator": 120259,
+      "denominator": 10
+    },
+    {
+      "items": [
+        66,
+        115
+      ],
+      "numerator": 601037,
+      "denominator": 50
+    },
+    {
+      "items": [
+        63,
+        118
+      ],
+      "numerator": 1200751,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        76
+      ],
+      "numerator": 1200183,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        69
+      ],
+      "numerator": 1197701,
+      "denominator": 100
+    },
+    {
+      "items": [
+        1,
+        100
+      ],
+      "numerator": 597907,
+      "denominator": 50
+    },
+    {
+      "items": [
+        25,
+        72
+      ],
+      "numerator": 597433,
+      "denominator": 50
+    },
+    {
+      "items": [
+        52,
+        76
+      ],
+      "numerator": 1190961,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        85
+      ],
+      "numerator": 59476,
+      "denominator": 5
+    },
+    {
+      "items": [
+        34,
+        76
+      ],
+      "numerator": 297214,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        76
+      ],
+      "numerator": 1188409,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        82
+      ],
+      "numerator": 592661,
+      "denominator": 50
+    },
+    {
+      "items": [
+        46,
+        97
+      ],
+      "numerator": 11843,
+      "denominator": 1
+    },
+    {
+      "items": [
+        16,
+        25
+      ],
+      "numerator": 1182081,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        52
+      ],
+      "numerator": 294417,
+      "denominator": 25
+    },
+    {
+      "items": [
+        1,
+        118
+      ],
+      "numerator": 1175857,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        103
+      ],
+      "numerator": 1174521,
+      "denominator": 100
+    },
+    {
+      "items": [
+        76,
+        103
+      ],
+      "numerator": 586437,
+      "denominator": 50
+    },
+    {
+      "items": [
+        79,
+        115
+      ],
+      "numerator": 584301,
+      "denominator": 50
+    },
+    {
+      "items": [
+        1,
+        66
+      ],
+      "numerator": 291893,
+      "denominator": 25
+    },
+    {
+      "items": [
+        76,
+        121
+      ],
+      "numerator": 46683,
+      "denominator": 4
+    },
+    {
+      "items": [
+        25,
+        121
+      ],
+      "numerator": 583497,
+      "denominator": 50
+    },
+    {
+      "items": [
+        10,
+        115
+      ],
+      "numerator": 1154939,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        31
+      ],
+      "numerator": 114889,
+      "denominator": 10
+    },
+    {
+      "items": [
+        44,
+        46
+      ],
+      "numerator": 228283,
+      "denominator": 20
+    },
+    {
+      "items": [
+        44,
+        55
+      ],
+      "numerator": 284994,
+      "denominator": 25
+    },
+    {
+      "items": [
+        44,
+        49
+      ],
+      "numerator": 284491,
+      "denominator": 25
+    },
+    {
+      "items": [
+        28,
+        115
+      ],
+      "numerator": 45473,
+      "denominator": 4
+    },
+    {
+      "items": [
+        44,
+        109
+      ],
+      "numerator": 284169,
+      "denominator": 25
+    },
+    {
+      "items": [
+        7,
+        49
+      ],
+      "numerator": 56763,
+      "denominator": 5
+    },
+    {
+      "items": [
+        44,
+        52
+      ],
+      "numerator": 567471,
+      "denominator": 50
+    },
+    {
+      "items": [
+        44,
+        75
+      ],
+      "numerator": 1134331,
+      "denominator": 100
+    },
+    {
+      "items": [
+        44,
+        127
+      ],
+      "numerator": 1133873,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        69
+      ],
+      "numerator": 1133717,
+      "denominator": 100
+    },
+    {
+      "items": [
+        44,
+        91
+      ],
+      "numerator": 1132331,
+      "denominator": 100
+    },
+    {
+      "items": [
+        7,
+        100
+      ],
+      "numerator": 1131813,
+      "denominator": 100
+    },
+    {
+      "items": [
+        63,
+        79
+      ],
+      "numerator": 562861,
+      "denominator": 50
+    },
+    {
+      "items": [
+        44,
+        106
+      ],
+      "numerator": 1125313,
+      "denominator": 100
+    },
+    {
+      "items": [
+        69,
+        76
+      ],
+      "numerator": 44999,
+      "denominator": 4
+    },
+    {
+      "items": [
+        10,
+        63
+      ],
+      "numerator": 281022,
+      "denominator": 25
+    },
+    {
+      "items": [
+        19,
+        44
+      ],
+      "numerator": 1122867,
+      "denominator": 100
+    },
+    {
+      "items": [
+        25,
+        82
+      ],
+      "numerator": 280541,
+      "denominator": 25
+    },
+    {
+      "items": [
+        44,
+        88
+      ],
+      "numerator": 1122081,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        44
+      ],
+      "numerator": 1119503,
+      "denominator": 100
+    },
+    {
+      "items": [
+        75,
+        109,
+        127
+      ],
+      "numerator": 11194211,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        44,
+        124
+      ],
+      "numerator": 559623,
+      "denominator": 50
+    },
+    {
+      "items": [
+        13,
+        76
+      ],
+      "numerator": 1118323,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        75,
+        127
+      ],
+      "numerator": 2794881,
+      "denominator": 250
+    },
+    {
+      "items": [
+        5
+      ],
+      "numerator": 55793,
+      "denominator": 5
+    },
+    {
+      "items": [
+        19,
+        75,
+        127
+      ],
+      "numerator": 11158241,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        1,
+        10
+      ],
+      "numerator": 1115801,
+      "denominator": 100
+    },
+    {
+      "items": [
+        91,
+        109,
+        127
+      ],
+      "numerator": 1394151,
+      "denominator": 125
+    },
+    {
+      "items": [
+        55,
+        91,
+        127
+      ],
+      "numerator": 11147033,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        91,
+        127
+      ],
+      "numerator": 1392998,
+      "denominator": 125
+    },
+    {
+      "items": [
+        55,
+        109,
+        127
+      ],
+      "numerator": 11138209,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        124,
+        127
+      ],
+      "numerator": 1392272,
+      "denominator": 125
+    },
+    {
+      "items": [
+        19,
+        55,
+        127
+      ],
+      "numerator": 11132851,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        109,
+        127
+      ],
+      "numerator": 11132049,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        55,
+        75,
+        109
+      ],
+      "numerator": 11130739,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        88,
+        127
+      ],
+      "numerator": 11127449,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        106,
+        109,
+        127
+      ],
+      "numerator": 11121929,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        91,
+        109
+      ],
+      "numerator": 444539,
+      "denominator": 40
+    },
+    {
+      "items": [
+        55,
+        75,
+        91
+      ],
+      "numerator": 5556413,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        91,
+        127
+      ],
+      "numerator": 1111083,
+      "denominator": 100
+    },
+    {
+      "items": [
+        75,
+        106,
+        127
+      ],
+      "numerator": 5549433,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        75,
+        109
+      ],
+      "numerator": 2774403,
+      "denominator": 250
+    },
+    {
+      "items": [
+        91,
+        106,
+        127
+      ],
+      "numerator": 5548711,
+      "denominator": 500
+    },
+    {
+      "items": [
+        88,
+        91,
+        127
+      ],
+      "numerator": 11095267,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        37,
+        75,
+        127
+      ],
+      "numerator": 5547293,
+      "denominator": 500
+    },
+    {
+      "items": [
+        55,
+        91,
+        109
+      ],
+      "numerator": 5546539,
+      "denominator": 500
+    },
+    {
+      "items": [
+        55,
+        88,
+        91
+      ],
+      "numerator": 554587,
+      "denominator": 50
+    },
+    {
+      "items": [
+        109,
+        124,
+        127
+      ],
+      "numerator": 11090849,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        55,
+        124,
+        127
+      ],
+      "numerator": 11089569,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        55,
+        75
+      ],
+      "numerator": 5544163,
+      "denominator": 500
+    },
+    {
+      "items": [
+        55,
+        106,
+        127
+      ],
+      "numerator": 1386024,
+      "denominator": 125
+    },
+    {
+      "items": [
+        55,
+        88,
+        127
+      ],
+      "numerator": 11086767,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        88,
+        91
+      ],
+      "numerator": 1385694,
+      "denominator": 125
+    },
+    {
+      "items": [
+        19,
+        91,
+        109
+      ],
+      "numerator": 2216483,
+      "denominator": 200
+    },
+    {
+      "items": [
+        88,
+        109,
+        127
+      ],
+      "numerator": 11082189,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        91,
+        106,
+        109
+      ],
+      "numerator": 11079459,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        55,
+        75,
+        88
+      ],
+      "numerator": 2215497,
+      "denominator": 200
+    },
+    {
+      "items": [
+        19,
+        55,
+        91
+      ],
+      "numerator": 11072853,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        106,
+        109
+      ],
+      "numerator": 5536031,
+      "denominator": 500
+    },
+    {
+      "items": [
+        91,
+        124,
+        127
+      ],
+      "numerator": 11069729,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        109,
+        124
+      ],
+      "numerator": 11068739,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        55,
+        109
+      ],
+      "numerator": 44273,
+      "denominator": 4
+    },
+    {
+      "items": [
+        37,
+        55,
+        75
+      ],
+      "numerator": 11063803,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        88,
+        109
+      ],
+      "numerator": 5531783,
+      "denominator": 500
+    },
+    {
+      "items": [
+        88,
+        91,
+        109
+      ],
+      "numerator": 2212399,
+      "denominator": 200
+    },
+    {
+      "items": [
+        19,
+        75,
+        91
+      ],
+      "numerator": 5530371,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        106,
+        127
+      ],
+      "numerator": 11060393,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        37,
+        55,
+        127
+      ],
+      "numerator": 11055911,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        55,
+        75,
+        124
+      ],
+      "numerator": 1381987,
+      "denominator": 125
+    },
+    {
+      "items": [
+        19,
+        124,
+        127
+      ],
+      "numerator": 11053639,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        88,
+        127
+      ],
+      "numerator": 2763329,
+      "denominator": 250
+    },
+    {
+      "items": [
+        49,
+        76
+      ],
+      "numerator": 221019,
+      "denominator": 20
+    },
+    {
+      "items": [
+        55,
+        91,
+        106
+      ],
+      "numerator": 5524829,
+      "denominator": 500
+    },
+    {
+      "items": [
+        7,
+        118
+      ],
+      "numerator": 1104847,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        75,
+        106
+      ],
+      "numerator": 2209233,
+      "denominator": 200
+    },
+    {
+      "items": [
+        88,
+        106,
+        127
+      ],
+      "numerator": 11042879,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        106,
+        124,
+        127
+      ],
+      "numerator": 11039271,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        91,
+        106
+      ],
+      "numerator": 2759271,
+      "denominator": 250
+    },
+    {
+      "items": [
+        55,
+        106,
+        109
+      ],
+      "numerator": 11036523,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        91,
+        124
+      ],
+      "numerator": 275889,
+      "denominator": 25
+    },
+    {
+      "items": [
+        31,
+        76
+      ],
+      "numerator": 551761,
+      "denominator": 50
+    },
+    {
+      "items": [
+        88,
+        91,
+        106
+      ],
+      "numerator": 1379262,
+      "denominator": 125
+    },
+    {
+      "items": [
+        88,
+        124,
+        127
+      ],
+      "numerator": 2206813,
+      "denominator": 200
+    },
+    {
+      "items": [
+        37,
+        109,
+        127
+      ],
+      "numerator": 5516767,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        37,
+        127
+      ],
+      "numerator": 2758157,
+      "denominator": 250
+    },
+    {
+      "items": [
+        19,
+        88,
+        91
+      ],
+      "numerator": 5516157,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        91,
+        106
+      ],
+      "numerator": 11030233,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        106,
+        109
+      ],
+      "numerator": 11028137,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        55,
+        88,
+        109
+      ],
+      "numerator": 275687,
+      "denominator": 25
+    },
+    {
+      "items": [
+        91,
+        109,
+        124
+      ],
+      "numerator": 11027183,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        28,
+        63
+      ],
+      "numerator": 1102661,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        75,
+        109
+      ],
+      "numerator": 5512673,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        55,
+        88
+      ],
+      "numerator": 1378167,
+      "denominator": 125
+    },
+    {
+      "items": [
+        55,
+        91,
+        124
+      ],
+      "numerator": 11023367,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        75,
+        127
+      ],
+      "numerator": 2755819,
+      "denominator": 250
+    },
+    {
+      "items": [
+        37,
+        91,
+        127
+      ],
+      "numerator": 2755587,
+      "denominator": 250
+    },
+    {
+      "items": [
+        37,
+        75,
+        91
+      ],
+      "numerator": 11018963,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        55,
+        109,
+        124
+      ],
+      "numerator": 2203093,
+      "denominator": 200
+    },
+    {
+      "items": [
+        19,
+        75,
+        88
+      ],
+      "numerator": 5506543,
+      "denominator": 500
+    },
+    {
+      "items": [
+        37,
+        106,
+        127
+      ],
+      "numerator": 1376508,
+      "denominator": 125
+    },
+    {
+      "items": [
+        19,
+        75,
+        124
+      ],
+      "numerator": 5505777,
+      "denominator": 500
+    },
+    {
+      "items": [
+        75,
+        88,
+        106
+      ],
+      "numerator": 11007417,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        75,
+        109
+      ],
+      "numerator": 11006457,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        109,
+        124
+      ],
+      "numerator": 1375611,
+      "denominator": 125
+    },
+    {
+      "items": [
+        19,
+        55,
+        106
+      ],
+      "numerator": 11004067,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        88,
+        109
+      ],
+      "numerator": 2200799,
+      "denominator": 200
+    },
+    {
+      "items": [
+        37,
+        55,
+        91
+      ],
+      "numerator": 5501671,
+      "denominator": 500
+    },
+    {
+      "items": [
+        75,
+        88,
+        124
+      ],
+      "numerator": 11003183,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        55,
+        124
+      ],
+      "numerator": 5499099,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        37,
+        55
+      ],
+      "numerator": 10998019,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        88,
+        91,
+        124
+      ],
+      "numerator": 10996729,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        37,
+        55,
+        109
+      ],
+      "numerator": 2199333,
+      "denominator": 200
+    },
+    {
+      "items": [
+        37,
+        88,
+        127
+      ],
+      "numerator": 2748787,
+      "denominator": 250
+    },
+    {
+      "items": [
+        19,
+        37,
+        75
+      ],
+      "numerator": 2198719,
+      "denominator": 200
+    },
+    {
+      "items": [
+        55,
+        88,
+        124
+      ],
+      "numerator": 5496569,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        75,
+        106
+      ],
+      "numerator": 1099199,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        88,
+        106
+      ],
+      "numerator": 2747239,
+      "denominator": 250
+    },
+    {
+      "items": [
+        37,
+        91,
+        109
+      ],
+      "numerator": 2747177,
+      "denominator": 250
+    },
+    {
+      "items": [
+        19,
+        91,
+        124
+      ],
+      "numerator": 5494057,
+      "denominator": 500
+    },
+    {
+      "items": [
+        46,
+        115
+      ],
+      "numerator": 549379,
+      "denominator": 50
+    },
+    {
+      "items": [
+        37,
+        124,
+        127
+      ],
+      "numerator": 10985283,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        13,
+        25
+      ],
+      "numerator": 274572,
+      "denominator": 25
+    },
+    {
+      "items": [
+        37,
+        75,
+        124
+      ],
+      "numerator": 1372856,
+      "denominator": 125
+    },
+    {
+      "items": [
+        55,
+        72,
+        75
+      ],
+      "numerator": 10982019,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        88,
+        106,
+        109
+      ],
+      "numerator": 1372731,
+      "denominator": 125
+    },
+    {
+      "items": [
+        106,
+        109,
+        124
+      ],
+      "numerator": 10980377,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        37,
+        75,
+        88
+      ],
+      "numerator": 1097759,
+      "denominator": 100
+    },
+    {
+      "items": [
+        75,
+        106,
+        124
+      ],
+      "numerator": 10977581,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        88,
+        109,
+        124
+      ],
+      "numerator": 1372029,
+      "denominator": 125
+    },
+    {
+      "items": [
+        37,
+        55,
+        88
+      ],
+      "numerator": 5487171,
+      "denominator": 500
+    },
+    {
+      "items": [
+        1,
+        79
+      ],
+      "numerator": 1097139,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        55,
+        106
+      ],
+      "numerator": 2742661,
+      "denominator": 250
+    },
+    {
+      "items": [
+        91,
+        106,
+        124
+      ],
+      "numerator": 10969991,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        37,
+        88,
+        91
+      ],
+      "numerator": 2741089,
+      "denominator": 250
+    },
+    {
+      "items": [
+        44,
+        72
+      ],
+      "numerator": 548139,
+      "denominator": 50
+    },
+    {
+      "items": [
+        19,
+        37,
+        109
+      ],
+      "numerator": 10960961,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        37,
+        91
+      ],
+      "numerator": 5477631,
+      "denominator": 500
+    },
+    {
+      "items": [
+        55,
+        106,
+        124
+      ],
+      "numerator": 2738701,
+      "denominator": 250
+    },
+    {
+      "items": [
+        37,
+        91,
+        106
+      ],
+      "numerator": 10954483,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        37,
+        106,
+        109
+      ],
+      "numerator": 1368914,
+      "denominator": 125
+    },
+    {
+      "items": [
+        37,
+        75,
+        106
+      ],
+      "numerator": 2737121,
+      "denominator": 250
+    },
+    {
+      "items": [
+        19,
+        72,
+        75
+      ],
+      "numerator": 10944953,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        44,
+        85
+      ],
+      "numerator": 1094267,
+      "denominator": 100
+    },
+    {
+      "items": [
+        37,
+        55,
+        124
+      ],
+      "numerator": 10942503,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        88,
+        106
+      ],
+      "numerator": 10941459,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        75,
+        91
+      ],
+      "numerator": 10936787,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        88,
+        124
+      ],
+      "numerator": 546829,
+      "denominator": 50
+    },
+    {
+      "items": [
+        72,
+        109,
+        127
+      ],
+      "numerator": 10930791,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        75,
+        88
+      ],
+      "numerator": 437159,
+      "denominator": 40
+    },
+    {
+      "items": [
+        37,
+        91,
+        124
+      ],
+      "numerator": 2730449,
+      "denominator": 250
+    },
+    {
+      "items": [
+        37,
+        109,
+        124
+      ],
+      "numerator": 2184329,
+      "denominator": 200
+    },
+    {
+      "items": [
+        37,
+        88,
+        109
+      ],
+      "numerator": 10915347,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        106,
+        124
+      ],
+      "numerator": 54571,
+      "denominator": 5
+    },
+    {
+      "items": [
+        19,
+        37,
+        106
+      ],
+      "numerator": 5455333,
+      "denominator": 500
+    },
+    {
+      "items": [
+        37,
+        88,
+        106
+      ],
+      "numerator": 2727283,
+      "denominator": 250
+    },
+    {
+      "items": [
+        88,
+        106,
+        124
+      ],
+      "numerator": 10907871,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        85,
+        88,
+        127
+      ],
+      "numerator": 545379,
+      "denominator": 50
+    },
+    {
+      "items": [
+        72,
+        75,
+        124
+      ],
+      "numerator": 2726857,
+      "denominator": 250
+    },
+    {
+      "items": [
+        19,
+        37,
+        88
+      ],
+      "numerator": 5453337,
+      "denominator": 500
+    },
+    {
+      "items": [
+        1,
+        28
+      ],
+      "numerator": 272658,
+      "denominator": 25
+    },
+    {
+      "items": [
+        55,
+        72,
+        127
+      ],
+      "numerator": 1363198,
+      "denominator": 125
+    },
+    {
+      "items": [
+        55,
+        85,
+        88
+      ],
+      "numerator": 10905003,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        85,
+        127
+      ],
+      "numerator": 10904341,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        75,
+        85,
+        88
+      ],
+      "numerator": 1362959,
+      "denominator": 125
+    },
+    {
+      "items": [
+        37,
+        72,
+        75
+      ],
+      "numerator": 10903647,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        72,
+        109
+      ],
+      "numerator": 10903331,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        55,
+        72,
+        109
+      ],
+      "numerator": 10899277,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        72,
+        127
+      ],
+      "numerator": 1362361,
+      "denominator": 125
+    },
+    {
+      "items": [
+        19,
+        37,
+        124
+      ],
+      "numerator": 2178991,
+      "denominator": 200
+    },
+    {
+      "items": [
+        85,
+        88,
+        91
+      ],
+      "numerator": 10893047,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        91,
+        109
+      ],
+      "numerator": 2177801,
+      "denominator": 200
+    },
+    {
+      "items": [
+        72,
+        75,
+        106
+      ],
+      "numerator": 108869,
+      "denominator": 10
+    },
+    {
+      "items": [
+        37,
+        106,
+        124
+      ],
+      "numerator": 1360524,
+      "denominator": 125
+    },
+    {
+      "items": [
+        75,
+        85,
+        109
+      ],
+      "numerator": 5441367,
+      "denominator": 500
+    },
+    {
+      "items": [
+        85,
+        109,
+        127
+      ],
+      "numerator": 5441283,
+      "denominator": 500
+    },
+    {
+      "items": [
+        55,
+        72,
+        91
+      ],
+      "numerator": 10881993,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        23
+      ],
+      "numerator": 108817,
+      "denominator": 10
+    },
+    {
+      "items": [
+        72,
+        91,
+        127
+      ],
+      "numerator": 5440017,
+      "denominator": 500
+    },
+    {
+      "items": [
+        37,
+        88,
+        124
+      ],
+      "numerator": 1359947,
+      "denominator": 125
+    },
+    {
+      "items": [
+        55,
+        75,
+        85
+      ],
+      "numerator": 10876973,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        55,
+        72
+      ],
+      "numerator": 2718709,
+      "denominator": 250
+    },
+    {
+      "items": [
+        34,
+        75,
+        127
+      ],
+      "numerator": 10871303,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        55,
+        85,
+        127
+      ],
+      "numerator": 10868657,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        85,
+        88,
+        109
+      ],
+      "numerator": 5433187,
+      "denominator": 500
+    },
+    {
+      "items": [
+        52,
+        55,
+        127
+      ],
+      "numerator": 10859607,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        85,
+        91,
+        127
+      ],
+      "numerator": 1085667,
+      "denominator": 100
+    },
+    {
+      "items": [
+        19,
+        72,
+        91
+      ],
+      "numerator": 217077,
+      "denominator": 20
+    },
+    {
+      "items": [
+        55,
+        85,
+        109
+      ],
+      "numerator": 1085301,
+      "denominator": 100
+    },
+    {
+      "items": [
+        72,
+        106,
+        109
+      ],
+      "numerator": 2713249,
+      "denominator": 250
+    },
+    {
+      "items": [
+        85,
+        91,
+        109
+      ],
+      "numerator": 5426467,
+      "denominator": 500
+    },
+    {
+      "items": [
+        16,
+        19,
+        127
+      ],
+      "numerator": 434093,
+      "denominator": 40
+    },
+    {
+      "items": [
+        75,
+        85,
+        91
+      ],
+      "numerator": 10851389,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        88,
+        127
+      ],
+      "numerator": 10850231,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        124,
+        127
+      ],
+      "numerator": 2711737,
+      "denominator": 250
+    },
+    {
+      "items": [
+        55,
+        85,
+        91
+      ],
+      "numerator": 5423043,
+      "denominator": 500
+    },
+    {
+      "items": [
+        52,
+        55,
+        75
+      ],
+      "numerator": 2711487,
+      "denominator": 250
+    },
+    {
+      "items": [
+        52,
+        55,
+        91
+      ],
+      "numerator": 10844183,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        85,
+        88,
+        106
+      ],
+      "numerator": 2168709,
+      "denominator": 200
+    },
+    {
+      "items": [
+        34,
+        37,
+        127
+      ],
+      "numerator": 2168539,
+      "denominator": 200
+    },
+    {
+      "items": [
+        72,
+        106,
+        127
+      ],
+      "numerator": 5420037,
+      "denominator": 500
+    },
+    {
+      "items": [
+        72,
+        88,
+        91
+      ],
+      "numerator": 10838969,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        109,
+        124
+      ],
+      "numerator": 2709029,
+      "denominator": 250
+    },
+    {
+      "items": [
+        19,
+        85,
+        88
+      ],
+      "numerator": 2167043,
+      "denominator": 200
+    },
+    {
+      "items": [
+        19,
+        85,
+        127
+      ],
+      "numerator": 5417413,
+      "denominator": 500
+    },
+    {
+      "items": [
+        55,
+        72,
+        88
+      ],
+      "numerator": 10831533,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        34,
+        37,
+        75
+      ],
+      "numerator": 541569,
+      "denominator": 50
+    },
+    {
+      "items": [
+        34,
+        109,
+        127
+      ],
+      "numerator": 10830073,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        85,
+        106,
+        127
+      ],
+      "numerator": 5414859,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        34,
+        127
+      ],
+      "numerator": 10827451,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        88,
+        109
+      ],
+      "numerator": 1353256,
+      "denominator": 125
+    },
+    {
+      "items": [
+        16,
+        19,
+        109
+      ],
+      "numerator": 5412909,
+      "denominator": 500
+    },
+    {
+      "items": [
+        7,
+        66
+      ],
+      "numerator": 108243,
+      "denominator": 10
+    },
+    {
+      "items": [
+        37,
+        55,
+        72
+      ],
+      "numerator": 10822351,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        16,
+        75,
+        127
+      ],
+      "numerator": 2164399,
+      "denominator": 200
+    },
+    {
+      "items": [
+        55,
+        72,
+        106
+      ],
+      "numerator": 1352639,
+      "denominator": 125
+    },
+    {
+      "items": [
+        52,
+        75,
+        127
+      ],
+      "numerator": 10820481,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        103,
+        106,
+        127
+      ],
+      "numerator": 10819163,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        16,
+        55,
+        127
+      ],
+      "numerator": 10817149,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        16,
+        19,
+        55
+      ],
+      "numerator": 5408467,
+      "denominator": 500
+    },
+    {
+      "items": [
+        52,
+        55,
+        109
+      ],
+      "numerator": 5407583,
+      "denominator": 500
+    },
+    {
+      "items": [
+        25,
+        100
+      ],
+      "numerator": 270371,
+      "denominator": 25
+    },
+    {
+      "items": [
+        37,
+        72,
+        127
+      ],
+      "numerator": 5407307,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        85,
+        109
+      ],
+      "numerator": 1081381,
+      "denominator": 100
+    },
+    {
+      "items": [
+        55,
+        72,
+        124
+      ],
+      "numerator": 5405281,
+      "denominator": 500
+    },
+    {
+      "items": [
+        34,
+        75,
+        109
+      ],
+      "numerator": 5405073,
+      "denominator": 500
+    },
+    {
+      "items": [
+        85,
+        106,
+        109
+      ],
+      "numerator": 10807607,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        91,
+        106
+      ],
+      "numerator": 5402703,
+      "denominator": 500
+    },
+    {
+      "items": [
+        16,
+        19,
+        75
+      ],
+      "numerator": 1350657,
+      "denominator": 125
+    },
+    {
+      "items": [
+        19,
+        85,
+        91
+      ],
+      "numerator": 10804859,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        16,
+        19,
+        91
+      ],
+      "numerator": 270096,
+      "denominator": 25
+    },
+    {
+      "items": [
+        91,
+        103,
+        106
+      ],
+      "numerator": 5401583,
+      "denominator": 500
+    },
+    {
+      "items": [
+        37,
+        72,
+        109
+      ],
+      "numerator": 10802983,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        85,
+        91,
+        106
+      ],
+      "numerator": 10802699,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        16,
+        44
+      ],
+      "numerator": 216051,
+      "denominator": 20
+    },
+    {
+      "items": [
+        16,
+        109,
+        127
+      ],
+      "numerator": 10802539,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        55,
+        85
+      ],
+      "numerator": 1350299,
+      "denominator": 125
+    },
+    {
+      "items": [
+        1,
+        46
+      ],
+      "numerator": 1080069,
+      "denominator": 100
+    },
+    {
+      "items": [
+        34,
+        55,
+        127
+      ],
+      "numerator": 10800493,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        72,
+        88
+      ],
+      "numerator": 432003,
+      "denominator": 40
+    },
+    {
+      "items": [
+        19,
+        75,
+        85
+      ],
+      "numerator": 1349913,
+      "denominator": 125
+    },
+    {
+      "items": [
+        19,
+        34,
+        109
+      ],
+      "numerator": 10797427,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        72,
+        91,
+        124
+      ],
+      "numerator": 2698589,
+      "denominator": 250
+    },
+    {
+      "items": [
+        75,
+        103,
+        127
+      ],
+      "numerator": 539659,
+      "denominator": 50
+    },
+    {
+      "items": [
+        75,
+        85,
+        106
+      ],
+      "numerator": 10792869,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        85,
+        88,
+        124
+      ],
+      "numerator": 10791543,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        34,
+        75
+      ],
+      "numerator": 10790953,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        34,
+        37
+      ],
+      "numerator": 539527,
+      "denominator": 50
+    },
+    {
+      "items": [
+        16,
+        75,
+        109
+      ],
+      "numerator": 10790291,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        85,
+        124,
+        127
+      ],
+      "numerator": 1348698,
+      "denominator": 125
+    },
+    {
+      "items": [
+        34,
+        37,
+        109
+      ],
+      "numerator": 2697207,
+      "denominator": 250
+    },
+    {
+      "items": [
+        16,
+        55,
+        109
+      ],
+      "numerator": 10788277,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        52,
+        55,
+        88
+      ],
+      "numerator": 5393553,
+      "denominator": 500
+    },
+    {
+      "items": [
+        16,
+        55,
+        75
+      ],
+      "numerator": 269677,
+      "denominator": 25
+    },
+    {
+      "items": [
+        34,
+        37,
+        55
+      ],
+      "numerator": 2696559,
+      "denominator": 250
+    },
+    {
+      "items": [
+        19,
+        72,
+        106
+      ],
+      "numerator": 5392859,
+      "denominator": 500
+    },
+    {
+      "items": [
+        16,
+        91,
+        109
+      ],
+      "numerator": 1348056,
+      "denominator": 125
+    },
+    {
+      "items": [
+        37,
+        85,
+        127
+      ],
+      "numerator": 1347989,
+      "denominator": 125
+    },
+    {
+      "items": [
+        34,
+        91,
+        127
+      ],
+      "numerator": 2156757,
+      "denominator": 200
+    },
+    {
+      "items": [
+        75,
+        103,
+        106
+      ],
+      "numerator": 2156343,
+      "denominator": 200
+    },
+    {
+      "items": [
+        34,
+        55,
+        75
+      ],
+      "numerator": 10781303,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        55,
+        85,
+        106
+      ],
+      "numerator": 10781057,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        72,
+        124
+      ],
+      "numerator": 10780429,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        37,
+        85,
+        88
+      ],
+      "numerator": 10778207,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        37,
+        72
+      ],
+      "numerator": 1077787,
+      "denominator": 100
+    },
+    {
+      "items": [
+        75,
+        85,
+        124
+      ],
+      "numerator": 10777667,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        103,
+        106,
+        109
+      ],
+      "numerator": 10776849,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        19,
+        34,
+        55
+      ],
+      "numerator": 2694187,
+      "denominator": 250
+    },
+    {
+      "items": [
+        52,
+        109,
+        127
+      ],
+      "numerator": 269416,
+      "denominator": 25
+    },
+    {
+      "items": [
+        16,
+        55,
+        91
+      ],
+      "numerator": 5386549,
+      "denominator": 500
+    },
+    {
+      "items": [
+        34,
+        88,
+        127
+      ],
+      "numerator": 10771323,
+      "denominator": 1000
+    },
+    {
+      "items": [
+        37,
+        75,
+        85
+      ],
+      "numerator": 269273,
+      "denominator": 25
+    },
+    {
+      "items": [
+        37,
+        55,
+        85
+      ],
+      "numerator": 5385443,
+      "denominator": 500
+    },
+    {
+      "items": [
+        72,
+        88,
+        124
+      ],
+      "numerator": 5385371,
+      "denominator": 500
+    },
+    {
+      "items": [
+        52,
+        75,
+        109
+      ],
+      "numerator": 5385123,
+      "denominator": 500
+    },
+    {
+      "items": [
+        55,
+        103,
+        106
+      ],
+      "numerator": 5385107,
+      "denominator": 500
+    },
+    {
+      "items": [
+        37,
+        72,
+        91
+      ],
+      "numerator": 5385017,
+      "denominator": 500
+    },
+    {
+      "items": [
+        19,
+        34,
+        91
+      ],
+      "numerator": 1076953,
+      "denominator": 100
+    },
+    {
+      "items": [
+        16,
+        91,
+        127
+      ],
+      "numerator": 1346129,
+      "denominator": 125
+    },
+    {
+      "items": [
+        52,
+        91,
+        127
+      ],
+      "numerator": 2692239,
+      "denominator": 250
+    },
+    {
+      "items": [
+        34,
+        124,
+        127
+      ],
+      "numerator": 2691979,
+      "denominator": 250
+    },
+    {
+      "items": [
+        19,
+        52,
+        55
+      ],
+      "numerator": 538381,
+      "denominator": 50
+    },
+    {
+      "items": [
+        34,
+        75,
+        91
+      ],
+      "numerator": 2153159,
+      "denominator": 200
+    },
+    {
+      "items": [
+        34,
+        55,
+        109
+      ],
+      "numerator": 1345716,
+      "denominator": 125
+    }
+  ],
+  "stats": {
+    "evaluated_extensions": 378733,
+    "pruned_extensions": 310640,
+    "max_depth": 15,
+    "big_integer_fallbacks": 1769,
+    "seeded_pairs": 771
+  },
+  "reference_wall_seconds": 52.29551298700244
+}

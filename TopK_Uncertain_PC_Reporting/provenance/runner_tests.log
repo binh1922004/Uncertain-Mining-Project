@@ -1,0 +1,21 @@
+Generating independent exact reference for smoke 25% (175 transactions)
+Generating independent exact reference for smoke 50% (350 transactions)
+Generating independent exact reference for smoke 75% (525 transactions)
+{
+  "status": "PASS",
+  "smoke_runs": 10,
+  "resume_no_duplicate": true,
+  "environment_change_rejected": true,
+  "main_plan_runs": 480,
+  "bad_input_hash_rejected": true,
+  "actual_timeout_runs": 10,
+  "timeout_excluded_from_mean": true,
+  "nested_subset_sizes": [
+    175,
+    350,
+    525
+  ],
+  "derived_resume_verified": true,
+  "bad_exact_output_rejected": true,
+  "tampered_receipt_log_rejected": true
+}

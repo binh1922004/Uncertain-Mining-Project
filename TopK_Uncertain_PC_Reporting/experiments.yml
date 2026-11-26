@@ -1,0 +1,37 @@
+experiments:
+  # - dataset: "retail"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "chess"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "accidents"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "BMS-POS"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "connect"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "kosarak"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "pumsb"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "pumsb_star"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "T10I4D100K"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "T40I10D100K"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "pamp"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "kddcup99"
+  #   thresholds: [100, 300, 500, 700, 900]
+  # - dataset: "USCensus"
+  #   thresholds: [100, 300, 500, 700, 900]
+  - dataset: "mushrooms"
+    thresholds: [100, 300, 500, 700, 900]
+
+settings:
+  numberOfRuns: 5
+  datasetBasePath: "/home/ball/nckh/dataset/HUI/"
+  outputPath: "./results/"
+  sampleMs: 5
+  timeoutSeconds: 3600
+  xmx: "4g"
